@@ -1,6 +1,6 @@
 # Lecteur local - Les Freres du Vent
 
-Site statique pour lire le Tome I directement depuis les fichiers Markdown du projet.
+Site statique pour lire les tomes directement depuis les fichiers Markdown du projet.
 
 ## Lancer
 

@@ -1,19 +1,32 @@
 const chapters = [
-  { id: 1, file: "../06_CHAPTERS/TOME_01/CHAPTER_01.md" },
-  { id: 2, file: "../06_CHAPTERS/TOME_01/CHAPTER_02.md" },
-  { id: 3, file: "../06_CHAPTERS/TOME_01/CHAPTER_03.md" },
-  { id: 4, file: "../06_CHAPTERS/TOME_01/CHAPTER_04.md" },
-  { id: 5, file: "../06_CHAPTERS/TOME_01/CHAPTER_05.md" },
-  { id: 6, file: "../06_CHAPTERS/TOME_01/CHAPTER_06.md" },
-  { id: 7, file: "../06_CHAPTERS/TOME_01/CHAPTER_07.md" },
-  { id: 8, file: "../06_CHAPTERS/TOME_01/CHAPTER_08.md" },
-  { id: 9, file: "../06_CHAPTERS/TOME_01/CHAPTER_09.md" },
-  { id: 10, file: "../06_CHAPTERS/TOME_01/CHAPTER_10.md" },
-  { id: 11, file: "../06_CHAPTERS/TOME_01/CHAPTER_11.md" },
-  { id: 12, file: "../06_CHAPTERS/TOME_01/CHAPTER_12.md" },
-  { id: 13, file: "../06_CHAPTERS/TOME_01/CHAPTER_13.md" },
-  { id: 14, file: "../06_CHAPTERS/TOME_01/CHAPTER_14.md" },
-  { id: 15, file: "../06_CHAPTERS/TOME_01/CHAPTER_15.md" },
+  { tome: "Tome I", id: 1, file: "../06_CHAPTERS/TOME_01/CHAPTER_01.md" },
+  { tome: "Tome I", id: 2, file: "../06_CHAPTERS/TOME_01/CHAPTER_02.md" },
+  { tome: "Tome I", id: 3, file: "../06_CHAPTERS/TOME_01/CHAPTER_03.md" },
+  { tome: "Tome I", id: 4, file: "../06_CHAPTERS/TOME_01/CHAPTER_04.md" },
+  { tome: "Tome I", id: 5, file: "../06_CHAPTERS/TOME_01/CHAPTER_05.md" },
+  { tome: "Tome I", id: 6, file: "../06_CHAPTERS/TOME_01/CHAPTER_06.md" },
+  { tome: "Tome I", id: 7, file: "../06_CHAPTERS/TOME_01/CHAPTER_07.md" },
+  { tome: "Tome I", id: 8, file: "../06_CHAPTERS/TOME_01/CHAPTER_08.md" },
+  { tome: "Tome I", id: 9, file: "../06_CHAPTERS/TOME_01/CHAPTER_09.md" },
+  { tome: "Tome I", id: 10, file: "../06_CHAPTERS/TOME_01/CHAPTER_10.md" },
+  { tome: "Tome I", id: 11, file: "../06_CHAPTERS/TOME_01/CHAPTER_11.md" },
+  { tome: "Tome I", id: 12, file: "../06_CHAPTERS/TOME_01/CHAPTER_12.md" },
+  { tome: "Tome I", id: 13, file: "../06_CHAPTERS/TOME_01/CHAPTER_13.md" },
+  { tome: "Tome I", id: 14, file: "../06_CHAPTERS/TOME_01/CHAPTER_14.md" },
+  { tome: "Tome I", id: 15, file: "../06_CHAPTERS/TOME_01/CHAPTER_15.md" },
+  { tome: "Tome II", id: 1, file: "../06_CHAPTERS/TOME_02/CHAPTER_01.md" },
+  { tome: "Tome II", id: 2, file: "../06_CHAPTERS/TOME_02/CHAPTER_02.md" },
+  { tome: "Tome II", id: 3, file: "../06_CHAPTERS/TOME_02/CHAPTER_03.md" },
+  { tome: "Tome II", id: 4, file: "../06_CHAPTERS/TOME_02/CHAPTER_04.md" },
+  { tome: "Tome II", id: 5, file: "../06_CHAPTERS/TOME_02/CHAPTER_05.md" },
+  { tome: "Tome II", id: 6, file: "../06_CHAPTERS/TOME_02/CHAPTER_06.md" },
+  { tome: "Tome II", id: 7, file: "../06_CHAPTERS/TOME_02/CHAPTER_07.md" },
+  { tome: "Tome II", id: 8, file: "../06_CHAPTERS/TOME_02/CHAPTER_08.md" },
+  { tome: "Tome II", id: 9, file: "../06_CHAPTERS/TOME_02/CHAPTER_09.md" },
+  { tome: "Tome II", id: 10, file: "../06_CHAPTERS/TOME_02/CHAPTER_10.md" },
+  { tome: "Tome II", id: 11, file: "../06_CHAPTERS/TOME_02/CHAPTER_11.md" },
+  { tome: "Tome II", id: 12, file: "../06_CHAPTERS/TOME_02/CHAPTER_12.md" },
+  { tome: "Tome II", id: 13, file: "../06_CHAPTERS/TOME_02/CHAPTER_13.md" },
 ];
 
 const state = {
@@ -30,6 +43,7 @@ const els = {
   chapterStatus: document.getElementById("chapterStatus"),
   chapterContent: document.getElementById("chapterContent"),
   chapterCount: document.getElementById("chapterCount"),
+  currentTome: document.getElementById("currentTome"),
   readingProgress: document.getElementById("readingProgress"),
   searchInput: document.getElementById("searchInput"),
   previousChapter: document.getElementById("previousChapter"),
@@ -163,7 +177,7 @@ function renderChapterList() {
     button.className = `chapter-card${index === state.currentIndex ? " active" : ""}`;
     button.type = "button";
     button.innerHTML = `
-      <span class="chapter-number">Chapitre ${String(doc.id).padStart(2, "0")}</span>
+      <span class="chapter-number">${escapeHtml(doc.tome)} - Chapitre ${String(doc.id).padStart(2, "0")}</span>
       <span class="chapter-name">${escapeHtml(doc.title.replace(/^CHAPTER\s+\d+\s+-\s+/i, ""))}</span>
       <span class="chapter-meta">${escapeHtml(doc.status)}</span>
     `;
@@ -186,8 +200,9 @@ function render() {
 
   const readable = getReadableMarkdown(doc);
   els.chapterTitle.textContent = doc.title.replace(/^CHAPTER\s+\d+\s+-\s+/i, "");
-  els.chapterStatus.textContent = `Chapitre ${String(doc.id).padStart(2, "0")} / ${doc.status}`;
+  els.chapterStatus.textContent = `${doc.tome} / Chapitre ${String(doc.id).padStart(2, "0")} / ${doc.status}`;
   els.chapterCount.textContent = String(state.docs.length);
+  els.currentTome.textContent = doc.tome;
   els.readingProgress.textContent = `${Math.round(((state.currentIndex + 1) / state.docs.length) * 100)}%`;
   els.chapterContent.innerHTML = highlight(markdownToHtml(readable), state.query);
   els.previousChapter.disabled = state.currentIndex === 0;

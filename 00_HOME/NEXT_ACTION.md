@@ -1,13 +1,13 @@
 # NEXT ACTION
 
 ## A Faire Maintenant
-Lire le Tome I dans le lecteur local et annoter les passages a retravailler.
+Lire le Tome II dans le lecteur local et annoter les passages a retravailler.
 
 ## Fichier A Ouvrir
-`12_READER_SITE/index.html`
+`06_CHAPTERS/TOME_02/CHAPTER_01.md`
 
 ## Objectif En 30 Minutes
-Lancer `12_READER_SITE/start_reader.ps1`, lire les chapitres 1 a 3 dans l'interface, puis noter les premiers ajustements de rythme et de transition.
+Lancer `12_READER_SITE/start_reader.ps1`, lire les chapitres du Tome II dans l'interface, puis noter les premiers ajustements de rythme et de transition.
 
 ## Ne Pas Oublier
 Le chapitre 2 doit installer les Petits Cerberes comme sous-intrigue majeure: Dagger / Marcus / Torch.
@@ -32,6 +32,7 @@ Tome I reecrit: 15 chapitres operationnels. Dagger decouvre Ryder par fragments;
 Chapitre 2 brouillon v1: 3 scenes en prose, environ 5000 mots. Scene 1: garage et naissance des Petits Cerberes. Scene 2: mission chez Vega. Scene 3: Silver Spur avec Copper et Kellen.
 Tome I brouillon v1 complet: Chapitre 1 valide; Chapitre 2 long brouillon; Chapitres 3-15 rediges en prose v1. Prochaine passe: densifier les chapitres 3-15, harmoniser la longueur et verifier que chaque fin cree question, danger ou revelation.
 Lecteur local cree dans `12_READER_SITE`: navigation par chapitre, recherche, vues Prose/Fiche complete/Notes, taille de police, mode clair/sombre.
+Tome II brouillon v1 complet: 13 chapitres rediges. Acte I: braises et dette. Acte II: enquete, Copper, chute d'Iron. Acte III: confession, mort de Boomer, depart vers le Convoi.
 
 ## A Noter Apres La Session
 - Tout nouveau detail sur Gasthaven dans `04_WORLD/WORLD_NOTES.md`

@@ -22,12 +22,12 @@ Concept
 - `09_REVISION`: notes et passes de revision
 - `10_EXPORTS`: livrables
 - `11_COVER`: brief, prompts et fichiers de couverture
-- `12_READER_SITE`: site local de lecture du Tome I
+- `12_READER_SITE`: site local de lecture de la saga
 - `99_ARCHIVE`: anciennes versions
 
 ## Lecture locale
 
-Le lecteur du Tome I est disponible dans `12_READER_SITE`.
+Le lecteur de la saga est disponible dans `12_READER_SITE`.
 
 ```powershell
 cd C:\Users\HP\Documents\business\AI_BOOK_STUDIO\PROJECTS\LES_FRERES_DU_VENT
