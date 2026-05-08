@@ -85,7 +85,7 @@ Moment tragique central:
 ## Chute Des Personnages
 
 ### Iron
-Capture, disparait. Le systeme recupere ce qu'il a cree.
+Capture, torture, corps jamais retrouve entier. On ne retrouve que des morceaux eparpilles, dont la tete. Le systeme recupere ce qu'il a cree.
 
 ### Boomer
 Avoue, meurt, liberation impossible.

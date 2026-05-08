@@ -107,7 +107,7 @@ Iron croyait avoir un relais policier.
 
 Cain avait une ouverture dans la maison d'Iron.
 
-Sa capture et sa torture signifient:
+Sa capture, sa torture et son corps rendu en fragments signifient:
 
 > Le systeme recupere ce qu'il a cree.
 

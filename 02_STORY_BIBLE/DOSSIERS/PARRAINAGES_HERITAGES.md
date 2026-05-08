@@ -98,6 +98,8 @@ Il participe a Velvet a la place de son fils.
 Apres Velvet:
 - incarcere
 - cible de Cain
+- demande a Iron de ne jamais donner les couleurs du Vent a Torch
+- demande a Ghost de veiller sur Torch
 
 Iron paie sa protection en prison.
 
@@ -105,6 +107,7 @@ Pourquoi:
 - culpabilite
 - responsabilite
 - maintien du silence
+- respect de la demande de Brick, devenue protection et malediction pour Torch
 
 ## Carte Des Liens
 

@@ -28,9 +28,9 @@ Objectif: reconstruire dans un monde deja perdu.
 
 | Episode | Titre | Hook | Tension | Rupture |
 | --- | --- | --- | --- | --- |
-| 01 | La promesse | Dagger revient a Gasthaven. | Le club est vide. | Ghost lui remet le patch. |
+| 01 | La promesse | Dagger revient a Gasthaven avec Mira et Angel. | Le club est vide; son fils rend le retour plus dangereux. | Ghost lui remet le patch. |
 | 02 | Les ruines | Tentative de reconstruction. | Absence de structure. | Le passe empeche d'avancer. |
-| 03 | Razor | Arrivee de Razor avec quatre gardes et une presence de terrain. | Il prend les Nouvelles Lames de Marcus. | Humiliation de Marcus et Torch place au pouvoir. |
+| 03 | Razor | Arrivee de Razor avec quatre gardes et une presence de terrain. | Il prend les Nouvelles Lames de Marcus. | Humiliation de Marcus et Torch place au pouvoir hors des couleurs du Vent. |
 | 04 | Provoquer la chute | Torch agit par haine. | Chaos interne. | Ghost est blesse. |
 | 05 | Fraternite forcee | Alliance Dagger / Marcus. | Mefiance mutuelle. | Necessite de cooperer. |
 

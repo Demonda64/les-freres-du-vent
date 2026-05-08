@@ -30,7 +30,7 @@ Chaque episode doit:
 ## Canon A Respecter
 - Dagger decouvre en meme temps que le lecteur.
 - Marcus est le terrain vivant: il connait club, rues, reseaux.
-- Torch est prospect a vie: sa blessure est le non-choix permanent.
+- Torch est prospect a vie chez les Freres du Vent: Brick a demande qu'on ne lui donne jamais les couleurs pour le proteger, mais Torch le vit comme un non-choix permanent. Il est pyromane et victime d'un syndrome de persecution.
 - Copper est deja le signe du double jeu police / club / Crimson.
 - Iron est coupable de silence, mais aussi piege par un pacte qui le depasse.
 - Velvet apparait comme piege; le systeme complet sera devoile plus tard.
@@ -44,7 +44,7 @@ Objectif: installer le monde, les tensions et les mysteres.
 | --- | --- | --- | --- | --- |
 | 01 | Le vent ne parle pas | Dagger arrive avec la photo. | Personne ne parle de Ryder. | Il entre au club sans obtenir de reponse. |
 | 02 | Les Petits Cerberes | Dagger est associe a Marcus et Torch. | Marcus occupe le terrain; Torch reste prospect a vie. | Le trio nait deja fissure. |
-| 03 | Silas, pas Dagger | Passe civil revient avec Stephanie. | Identite refusee. | Il choisit le masque Dagger. |
+| 03 | Silas, pas Dagger | Passe civil revient avec Stephanie. | Identite refusee; Torch reconnait en elle quelqu'un laisse dehors. | Dagger choisit le masque Dagger, tandis qu'une amitie Stephanie/Torch commence. |
 | 04 | L'autre Lame | Marcus mentionne La Lame. | Sa version est brillante mais incomplete. | Dagger comprend que l'histoire de Ryder a ete retouchee. |
 | 05 | Le pacte | Copper menace Iron. | Dette invisible, police trop informee. | Dagger comprend que la police est dans le systeme. |
 | 06 | La photo | Scarlett revelee visuellement. | Lien emotionnel inconnu. | Qui est-elle vraiment ? |
@@ -67,8 +67,8 @@ Objectif: explosion et consequences.
 
 | Episode | Titre | Hook | Tension | Rupture / Image Finale |
 | --- | --- | --- | --- | --- |
-| 14 | Conflit ouvert | Les Lames frappent directement. | Guerre declaree. | Plus de retour possible. |
-| 15 | L'ultime ride | Affrontement final. | Survie du club. | Dagger survit, le club reste debout mais fissure. |
+| 14 | Conflit ouvert | Les Lames frappent directement et Marcus capture Stephanie. | Dagger et Torch sont choques par la radicalite de Marcus. | Torch part la sauver avec l'accord de Ghost et Iron. |
+| 15 | L'ultime ride | Torch revient presque mort apres l'echec du sauvetage. | Dagger sauve Stephanie seul, sans accord du club, puis l'affrontement final commence. | Dagger survit, le club reste debout mais fissure. |
 
 Image finale:
 - Dagger sous la pluie.
@@ -103,7 +103,7 @@ Devient legitime sans le vouloir.
 Passe de frere de terrain a rival politique.
 
 ### Torch
-Ne trahit pas encore comme cerveau: il se fissure parce qu'il reste prospect a vie.
+Ne trahit pas encore comme cerveau: il se fissure parce qu'il reste prospect a vie. Son amitie avec Stephanie le rend plus humain, puis son echec de sauvetage le brise davantage.
 
 ### Boomer
 Culpabilite grandissante.

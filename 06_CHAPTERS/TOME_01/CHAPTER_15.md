@@ -20,10 +20,10 @@ Dagger
 Dagger veut rester vivant et comprendre Ryder. Le club veut survivre sans avouer ce qui l'a pourri.
 
 ## Scenes
-1. Les Freres lancent ou subissent l'affrontement final.
-2. Dagger sauve un homme ou une piece decisive du club.
-3. Marcus recule sans etre vaincu.
-4. Torch fuit ou disparait dans le chaos, encore sans place.
+1. Torch revient presque mort apres l'echec du sauvetage de Stephanie.
+2. Dagger part seul, sans l'accord du club, et sauve Stephanie.
+3. Les Freres subissent l'affrontement final.
+4. Marcus recule sans etre vaincu; Torch fuit dans le chaos, encore sans place.
 5. Dagger reste debout sous la pluie, huile et sang sur lui.
 
 ## Cliffhanger Final
@@ -33,6 +33,7 @@ Le club a survecu, mais Ryder n'a pas ete venge ni compris. La verite continue d
 - Fin symbolique: Dagger debout dans les ruines.
 - Ne pas resoudre Velvet.
 - Le Tome II devra ouvrir sur les consequences et le double jeu de Copper.
+- Torch est pyromane et victime d'un syndrome de persecution; son echec avec Stephanie aggrave sa fracture.
 
 ---
 
@@ -42,13 +43,89 @@ La pluie arriva le soir de l'ultime ride.
 
 Pas une pluie propre. Une pluie lourde, chaude, qui tombait sur Gasthaven comme si le ciel transpirait. Elle transformait la poussiere en boue fine, collait les cheveux aux fronts, faisait briller les routes d'une lumiere malade.
 
+Torch revint avant la pluie.
+
+Deux hommes le porterent jusqu'au garage. Il avait le visage ouvert, une arcade fendue jusqu'a l'os, les cotes prises dans une douleur qui le faisait respirer par petits coups. Son blouson etait dechire. Ses mains sentaient l'essence.
+
+La mission autorisee par Iron et Ghost avait dure dix minutes.
+
+Les hommes de Marcus l'attendaient au motel des silos. Pas assez nombreux pour une guerre. Juste assez pour faire un exemple. Ils avaient laisse Torch repartir vivant parce que mort, il n'aurait pas pu rapporter le message.
+
+Stephanie n'etait plus la.
+
+Torch cracha du sang sur le beton.
+
+"Il a deplace la chaise."
+
+Personne ne parla.
+
+"Il savait que je viendrais."
+
+Dagger regarda Iron.
+
+"Tu m'as empeche d'y aller."
+
+Iron ne baissa pas les yeux.
+
+"Je t'ai empeche de lui donner exactement ce qu'il demandait."
+
+"Il l'a quand meme."
+
+Ghost posa une main sur l'epaule de Torch. Le prospect la repoussa avec une violence faible, presque enfantine.
+
+"Vous m'avez envoye parce que je compte moins."
+
+"On t'a envoye parce que tu connaissais le motel", dit Ghost.
+
+Torch rit. Le rire devint une toux. Quand il releva la tete, ses yeux avaient cette clarte mauvaise des hommes qui se sentent poursuivis par toutes les pieces de la ville.
+
+"Bien sur. C'est jamais contre moi. C'est toujours pour une bonne raison."
+
+Dagger attendit que la porte du bureau d'Iron se referme.
+
+Puis il partit seul.
+
+Il ne demanda pas l'accord du club. Il prit la moto la moins bruyante, la photo de Ryder contre lui, et suivit non pas le message de Marcus mais l'erreur qu'il avait laissee derriere: l'odeur d'essence sur les manches de Torch. Pas celle du motel. Celle du vieux depot de carburant au nord, la ou les Lames stockaient ce qu'elles volaient avant de le redistribuer dans les rues.
+
+Stephanie etait dans une remise sans fenetre.
+
+Deux hommes gardaient la porte. Dagger ne fit pas de discours. Il frappa le premier avec une cle de roue ramassee pres d'un camion, plaqua le second contre le mur et resta une seconde de trop a sentir sous ses doigts la facilite terrible de continuer. Puis Stephanie cria son nom.
+
+Pas Dagger.
+
+"Silas."
+
+Il la trouva attachee a un tuyau, les poignets brules par le ruban. Elle ne pleurait pas. Elle tremblait trop pour ca.
+
+"Pourquoi t'es venu ?"
+
+Il coupa le ruban avec son couteau.
+
+"Parce que cette fois, je voulais pas qu'on me dise qu'il etait trop tard."
+
+Elle le regarda comme si cette phrase avait plus de sang que les murs.
+
+En sortant, Dagger vit un bidon renverse pres de la porte et une trainee brillante jusqu'a la remise. Marcus n'avait pas seulement prepare une captivite. Il avait prepare une image. Une femme, un feu, un frere qui arrive trop tard.
+
+Dagger jeta le bidon dehors avant de faire monter Stephanie derriere lui.
+
+Quand il revint au clubhouse, Iron ne le remercia pas.
+
+Ghost non plus.
+
+Torch, allonge sur une table, tourna seulement la tete vers Stephanie. Elle posa deux doigts sur son poignet gonfle.
+
+"T'as essaye", dit-elle.
+
+Le visage de Torch se cassa plus fort que sous les coups.
+
 Iron rassembla les hommes devant le clubhouse.
 
 Ils n'etaient pas assez nombreux.
 
 Tout le monde le voyait. Personne ne le dit.
 
-Boomer verifiait les armes avec une attention presque tendre. Ghost se tenait sous l'auvent, immobile, son cuir noir avalant la lumiere. Torch etait la aussi, trempe, les yeux rouges, sans consigne claire. Prospect a vie. Soldat sans porte. Dagger le regarda une seconde et comprit qu'un homme qu'on laisse toujours dehors finit par aimer l'incendie.
+Boomer verifiait les armes avec une attention presque tendre. Ghost se tenait sous l'auvent, immobile, son cuir noir avalant la lumiere. Torch etait la aussi, trempe, les yeux rouges, le visage gonfle, les cotes bandees trop vite, sans consigne claire. Prospect a vie. Soldat sans porte. Dagger le regarda une seconde et comprit qu'un homme qu'on laisse toujours dehors finit par croire que tous les murs le visent. Et parfois, il finit par aimer l'incendie.
 
 Iron parla bas.
 

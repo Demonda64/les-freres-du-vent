@@ -17,22 +17,22 @@ Faire revenir l'ancienne vie de Dagger par Stephanie et montrer que "Silas" est 
 Dagger / Silas Merel
 
 ## Conflict
-Stephanie veut retrouver Silas. Dagger veut rester Dagger. Torch observe la scene et y voit une preuve que le nouveau cache quelque chose.
+Stephanie veut retrouver Silas. Dagger veut rester Dagger. Torch observe la scene, puis reconnait chez Stephanie quelqu'un qui se retrouve dehors comme lui.
 
 ## Scenes
 1. Stephanie arrive pres du garage.
 2. Dagger refuse de repartir.
-3. Torch observe sans intervenir.
+3. Torch observe, puis parle a Stephanie apres le refus de Dagger.
 4. Dagger croise Mira sans savoir quoi lui dire.
-5. Dagger enterre un peu plus le nom Silas.
+5. Dagger enterre un peu plus le nom Silas pendant qu'une amitie fragile Stephanie/Torch commence.
 
 ## Cliffhanger
-Torch a vu assez pour comprendre que Dagger a une ancienne vie exploitable.
+Torch a vu assez pour comprendre que Dagger a une ancienne vie exploitable, mais Stephanie devient aussi son premier lien humain hors du club.
 
 ## Continuity Notes
 - Silas reste un nom dangereux, meme avant la revelation Red Mox.
 - Stephanie represente la sortie possible; Dagger la refuse.
-- Torch ne trahit pas: il accumule de la jalousie et de l'information.
+- Torch ne trahit pas: il accumule de la jalousie et de l'information, mais aussi une attache sincere avec Stephanie.
 
 ---
 
@@ -155,6 +155,16 @@ Quand elle les rouvrit, Silas avait quitte son visage. Pas completement. Jamais 
 "J'apprends vite."
 
 Elle ramassa sa valise. A la sortie du parking, elle croisa Mira qui arrivait avec une caisse de bandages et un petit sac de croquettes sous le bras. Les deux femmes se regarderent sans se connaitre. Stephanie comprit quelque chose de travers. Mira comprit qu'il valait mieux ne rien demander.
+
+Stephanie n'alla pas loin.
+
+Dagger la vit s'arreter devant le distributeur de l'autre cote de la rue, la valise a ses pieds, les mains tremblantes autour d'une bouteille d'eau qu'elle ne buvait pas. Torch traversa le parking sans qu'on le lui demande. Briquet dans la main, epaules hautes, demarche trop dure pour ce qu'il etait en train de faire.
+
+Il lui parla.
+
+Dagger n'entendit pas les mots. Il vit seulement Stephanie lever les yeux vers lui, mefiante d'abord, puis fatiguee. Torch montra la rue avec le menton, peut-etre le motel, peut-etre la sortie de la ville. Elle repondit quelque chose. Torch eut un sourire bref, pas le sourire coupant qu'il donnait au club. Un autre. Plus maladroit. Presque jeune.
+
+Pendant quelques secondes, ils eurent l'air de deux personnes qui ne savaient pas quoi faire d'avoir ete laissees dehors par le meme homme.
 
 Dagger resta au milieu du garage.
 

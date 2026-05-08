@@ -91,7 +91,7 @@ Scarlett embrassa Mira sur le front. Puis elle regarda Dagger.
 
 "Tout le monde essaie."
 
-Elle monta dans le camion de tete. Queenie leva deux doigts depuis la fenetre. Pas un adieu. Une constatation: certains survivants ne restent jamais assez longtemps pour appartenir a ce qu'ils ont sauve.
+Elle monta dans le camion de tete. Queenie leva deux doigts depuis la fenetre. Angel dormait contre l'epaule de Mira, ignorant encore que certains noms sont des routes avant d'etre des maisons. Pas un adieu. Une constatation: certains survivants ne restent jamais assez longtemps pour appartenir a ce qu'ils ont sauve.
 
 Au matin, Ghost avait disparu.
 

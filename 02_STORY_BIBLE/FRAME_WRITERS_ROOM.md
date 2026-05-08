@@ -97,6 +97,8 @@ Toute action a un prix:
 ### Torch - Le Rejete
 - veut etre vu
 - devient dangereux
+- pyromane, syndrome de persecution
+- son amitie avec Stephanie est une faille humaine: il peut vouloir proteger, mais son echec confirme son sentiment d'etre condamne
 
 ### Scarlett - La Stratege Libre
 - n'appartient a personne
@@ -196,7 +198,7 @@ Reference:
 - Ryder, Iron, Boomer, Scarlett, Red et Cain touchent le niveau 4, mais pour des raisons opposees.
 - Ghost est au niveau 2 pendant Velvet, puis au niveau 3 apres coup: il comprend trop tard.
 - Marcus passe du niveau 1 au niveau 3.
-- Torch reste au niveau 2.
+- Torch reste au niveau 2: il sait qu'on lui refuse les couleurs, mais ignore que Brick l'a demande pour le proteger.
 
 A chaque scene, poser:
 1. Qui parle ?

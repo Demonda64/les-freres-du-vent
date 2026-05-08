@@ -23,6 +23,10 @@ Ils regarderent les fichiers jusqu'a ce que le jour baisse.
 
 Pas tous. Il y en avait trop, et chacun semblait ouvrir une piece plus sombre que la precedente. Routes. Hommes sacrifies. Dates de paiements. Notes sur Copper. Photos floues de rencontres entre flics et relais Crimson. Un fichier sur Jacob Colton. Un autre sur Brick Thorne. Des noms que Dagger ne connaissait pas encore, deja morts dans des rapports trop propres.
 
+Le fichier Brick etait court. Trop court pour un homme vivant. Un remplacement de derniere minute sur Velvet. Un transfert signe apres la reapparition de Torch. Trois paiements d'Iron pour protection en prison. Une annotation de Ryder, seule phrase au milieu des dates:
+
+Brick ne parlera pas. Ils le gardent vivant pour que Torch reste utilisable.
+
 Ghost ne s'assit jamais.
 
 Il resta debout derriere la chaise, les mains sur le dossier, comme s'il avait peur de tomber s'il acceptait enfin le poids.

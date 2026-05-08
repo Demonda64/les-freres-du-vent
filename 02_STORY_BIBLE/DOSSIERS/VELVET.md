@@ -233,6 +233,14 @@ Resultat:
 
 Le pere paie pour le fils.
 
+Apres Velvet, Brick fait deux demandes:
+- a Iron: ne jamais donner les couleurs des Freres du Vent a Torch
+- a Ghost: veiller sur Torch
+
+La logique de Brick est une logique de protection: si Torch ne porte jamais le patch du Vent, il reste hors de la machine sacrificielle.
+
+La blessure de Torch vient de la: ce qui devait le sauver devient, pour lui, la preuve qu'on ne le choisira jamais.
+
 ## La Scene De Boomer
 
 Boomer choisit:
@@ -323,6 +331,8 @@ Il construit sa haine sur un mensonge familial et politique.
 Il devient le fils d'une dette qu'il n'a jamais regardee en face.
 
 Il reste surtout prospect a vie: jamais choisi, jamais pleinement frere.
+
+Il peut obtenir un titre ailleurs, chez les Lames ou sous influence Crimson, mais jamais les couleurs du Vent.
 
 Sa blessure le rend manipulable, mais il n'est pas le cerveau de Velvet ni de la chute d'Iron.
 

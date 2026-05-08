@@ -95,6 +95,10 @@ Torch leva le menton.
 
 Le mot trembla a peine.
 
+Pas des Freres.
+
+Jamais des Freres.
+
 Razor rit doucement.
 
 "Ne sois pas cruel, Marcus. Il attendait depuis si longtemps."

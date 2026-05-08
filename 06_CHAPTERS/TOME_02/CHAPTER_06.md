@@ -163,4 +163,10 @@ Dagger regarda la prison au loin.
 
 Il n'etait plus temps d'y aller.
 
+Deux heures plus tard, un appel anonyme confirma ce que la station-service avait deja dit. Brick Thorne avait ete change d'aile. Quartier ferme. Visites suspendues. Dossier medical scelle apres une bagarre que personne n'avait vue commencer.
+
+La piste ne disparaissait pas.
+
+On venait de lui mettre une porte en acier devant la bouche.
+
 La route venait de changer de sens.

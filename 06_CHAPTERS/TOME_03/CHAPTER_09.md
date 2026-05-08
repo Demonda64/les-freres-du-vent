@@ -25,7 +25,7 @@ Plus de camions. Plus de clients. Plus de flics. Les commerces fermerent avant m
 
 Dagger transforma le clubhouse en poste de coordination.
 
-Marcus tenait South Ditch. Razor tenait les entrees nord avec trois hommes qui lui etaient restes fideles. Scarlett, encore blessee, organisait les evacuations depuis un camion. Mira circulait entre les points de soin avec un sac trop lourd pour ses epaules.
+Marcus tenait South Ditch. Razor tenait les entrees nord avec trois hommes qui lui etaient restes fideles. Scarlett, encore blessee, organisait les evacuations depuis un camion. Angel dormait dans le convoi d'evacuation avec Queenie, loin des cartes et des armes. Mira circulait entre les points de soin avec un sac trop lourd pour ses epaules.
 
 Ghost, pale mais debout, refusa de rester allonge.
 

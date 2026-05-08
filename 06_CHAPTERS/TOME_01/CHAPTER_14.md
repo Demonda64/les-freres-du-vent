@@ -17,21 +17,22 @@ Faire exploser la guerre ouverte avec les Nouvelles Lames.
 Dagger
 
 ## Conflict
-Iron veut tenir le symbole. Marcus veut prouver que le terrain lui appartient. Dagger voit que la fraternite devient une guerre de succession.
+Iron veut tenir le symbole. Marcus veut prouver que le terrain lui appartient. Dagger et Torch voient que Marcus est pret a toucher une civile pour gagner.
 
 ## Scenes
 1. Attaque d'un lieu lie aux Freres.
 2. Marcus envoie un message politique, pas seulement violent.
 3. Torch tente d'exister dans le chaos.
-4. Ghost protege Dagger ou couvre une faille.
-5. Iron declare la riposte totale.
+4. Marcus capture Stephanie et envoie la preuve au club.
+5. Iron et Ghost autorisent Torch a tenter le sauvetage.
 
 ## Cliffhanger
-La guerre n'est plus une menace: elle a choisi la ville.
+Torch part sauver Stephanie avec l'accord d'Iron et Ghost, mais son regard annonce deja le fiasco.
 
 ## Continuity Notes
 - Marcus attaque avec logique de terrain.
 - Torch n'est pas cerveau: il cherche la place dans la violence.
+- Stephanie et Torch ont developpe une amitie fragile depuis le chapitre 3.
 
 ---
 
@@ -184,3 +185,53 @@ Personne ne lui repondait.
 La guerre avait choisi la ville.
 
 Et elle avait commence par bruler les morts.
+
+Puis le telephone de Torch vibra.
+
+Personne ne sut d'abord pourquoi le son fit plus peur que les sirenes. Torch regarda l'ecran, perdit le peu de couleur qui lui restait, puis tendit l'appareil a Dagger sans un mot.
+
+Stephanie etait assise sur une chaise, les poignets attaches avec du ruban gris. Une lumiere nue pendait au-dessus d'elle. Elle avait du sang au coin de la bouche, pas assez pour faire croire a une execution, assez pour montrer que Marcus savait doser.
+
+La voix de Marcus arriva hors champ.
+
+"Silas. Ton ancienne vie et ton prospect prefere ont le meme mauvais gout: ils croient encore qu'on peut sortir d'ici propre."
+
+Torch recula d'un pas.
+
+"Non."
+
+Dagger sentit la meme chose passer dans son ventre: pas la peur de perdre Stephanie seulement, mais le choc de voir Marcus choisir ca. Une civile. Une femme qui n'avait jamais porte de patch. Une porte que meme les anciens evitaient de toucher trop fort.
+
+Iron regarda l'ecran longtemps.
+
+"Ou ?"
+
+Torch avala sa salive.
+
+"Le motel des silos. Elle... elle m'a dit qu'elle dormait la."
+
+Ghost se tourna vers Iron.
+
+Il n'y eut pas de debat. Seulement ce vieux calcul sale qu'ils faisaient trop vite.
+
+Iron dit:
+
+"Torch, tu prends deux hommes. Tu la ramenes. Pas de guerre. Pas de bruit."
+
+Dagger fit un pas.
+
+"J'y vais."
+
+"Non", dit Iron.
+
+Ghost ajouta:
+
+"C'est toi qu'il veut voir courir."
+
+Dagger regarda Torch. Pour la premiere fois depuis son arrivee, le prospect ne le haissait pas. Il avait seulement peur pour quelqu'un d'autre.
+
+Torch serra le telephone jusqu'a s'en blanchir les phalanges.
+
+"Je vais la sortir."
+
+Dans son regard, il y avait deja trop de feu.

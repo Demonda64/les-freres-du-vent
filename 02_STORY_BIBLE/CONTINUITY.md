@@ -18,15 +18,21 @@
 | Marcus / Terrain | Marcus connait les Freres, mais aussi les quartiers noirs, gangs locaux et cousins eloignes via son grand-pere. | Marcus / Razor heritiers | Connecteur unique entre bikers et gangs. |
 | Marcus / Crimson | Marcus peut contourner Crimson par des alliances organiques de terrain. | Crimson economie | Pouvoir que le cartel ne controle pas totalement. |
 | Razor | Jacek Mox, fils illegitime de Red, dernier de sa fratrie, demi-frere de Grimm. | Marcus / Razor heritiers | Elite riche, investisseurs, finance, pouvoir institutionnel; predateur + enfant. |
-| Razor / Lames | Au Tome III, Razor prend les Nouvelles Lames de Marcus et impose Torch au pouvoir. | Tome III | Humiliation politique et vol du reve de Marcus. |
+| Razor / Lames | Au Tome III, Razor prend les Nouvelles Lames de Marcus et impose Torch au pouvoir hors des couleurs du Vent. | Tome III | Humiliation politique, vol du reve de Marcus, fausse reparation de Torch. |
 | Zeke / Red Mox | Zeke Kane et Red Mox creent d'abord les Freres du Vent, puis developpent Crimson Cross. | Mythologie fondatrice | Meilleurs amis devenus deux visions opposees du systeme. |
 | Dagger / Silas | Dagger porte le prenom de Silas "Red" Mox, mais le nom Merel de sa mere. | Symbole Silas | Zeke donne le prenom de son meilleur ami a son fils, mais pas son nom. |
+| Dagger / Mira / Angel | Dagger et Mira reviennent au Tome III avec leur fils Angel, presque deux ans. | Tome III | Angel rend le retour a Gasthaven plus dangereux et plus intime. |
 | Red / Ryder | Red voyait Ryder comme l'heritier naturel de Zeke. | Mythologie fondatrice | Velvet devient aussi une tentative de recuperation de Ryder. |
 | La Lame | Cellule formee de Ryder, Boomer, Marcus, Queenie et Scarlett. | Tome I | Idee de Ryder. |
 | Les Nouvelles Lames | Dissidence creee par Marcus, puis antenne liee a Crimson. | Tome I-III | Devient l'ennemi interne. |
 | Le Convoi | Groupe mobile initie par Scarlett sur une idee de Ryder. | Tome II-III | Alternative au club fixe. |
 | Copper / Trahison | Copper joue un double jeu entre Cain et Iron. | Trahisons / Tome II | Il trahit Iron et Ryder, verrouille la version policiere et permet la chute d'Iron. |
-| Torch | Torch est prospect a vie. | Casting / Tome II | Menace manipulable et blessure de statut; pas architecte de la capture d'Iron. |
+| Torch | Torch est prospect a vie chez les Freres du Vent. | Casting / Tome II | Il ne portera jamais les couleurs du Vent, mais peut devenir president dans un autre club. |
+| Torch / Enfance | Torch grandit autour du club avec Marcus, puis plus tard avec Ryder. | Casting / Tome I | Sa blessure vient d'une appartenance vecue mais jamais officialisee. |
+| Torch / Psychologie | Torch est pyromane et victime d'un syndrome de persecution. | Casting / Tome I-III | Il lit presque tout refus comme une preuve qu'on veut l'effacer. |
+| Torch / Stephanie | Torch et Stephanie developpent une amitie dans le Tome I. | T1 C3 | Deux personnages qui se sentent laisses dehors par Dagger et par le club. |
+| Brick / Torch | Brick demande a Iron de ne jamais donner les couleurs du Vent a Torch, pour le proteger apres l'echec de Velvet. | Dossier Velvet | Torch lit cette protection comme une humiliation. |
+| Ghost / Torch | Brick demande a Ghost de veiller sur Torch. | Dossier Velvet | Ghost porte une promesse qu'il ne sait pas tenir jusqu'au bout. |
 | Marcus / Boomer | Marcus est le neveu de Boomer; Boomer est sa figure paternelle. | Correction canon | Boomer sauve Marcus pendant Velvet au prix de Ryder. |
 | Jacob Colton | Pere de Marcus, victime du systeme sacrificiel. | Dossier Velvet | Envoye comme pion, arrete, elimine en prison par Cain. |
 | Jacob / Parrainage | Jacob, metisse, entre exceptionnellement au club grace a Zeke et Iron. | Parrainages | Inclusion forcee dans un systeme ferme. |
@@ -53,7 +59,7 @@
 | Avant / pendant Velvet | Ryder collecte des preuves contre le systeme sacrificiel. | Dossier Velvet | Il veut exposer la complicite police / club / cartel. |
 | 3 ans avant Tome I | Cain decouvre l'infiltration de Ryder et declenche son elimination immediate. | Dossier Velvet | Crimson etouffe la revolution avant qu'elle parle. |
 | 3 ans avant Tome I | Boomer protege Marcus et abandonne Ryder; Ryder lui dit: "Termine ce qu'on a commence." | Dossier Velvet | Racine de la tragedie Marcus / Boomer. |
-| Pendant Velvet | Torch devait participer mais, alcoolise et drogue, il est remplace par son pere Brick Thorne sur decision d'Iron. | Dossier Velvet | Le pere paie pour le fils. |
+| Pendant Velvet | Torch devait participer mais, alcoolise et drogue, il est remplace par son pere Brick Thorne sur decision d'Iron. | Dossier Velvet | Le pere paie pour le fils; ensuite Brick veut tenir Torch hors des couleurs pour le garder vivant. |
 | Fondation | Zeke et Red Mox creent les Freres du Vent. | Mythologie fondatrice | Club base sur loyaute, fraternite et territoire. |
 | Expansion | Red voit plus grand; avec Zeke, il developpe Crimson Cross. | Mythologie fondatrice | Reseau, expansion, pouvoir. |
 | Fracture | Zeke comprend que Crimson devient incontrolable et refuse l'expansion. | Mythologie fondatrice | La logique de pouvoir remplace la fraternite. |
@@ -67,15 +73,17 @@
 | Apres Velvet | Ghost decouvre trop tard la vraie nature de Velvet; Iron, Boomer et Scarlett la lui avaient cachee parce qu'il aurait refuse. | Dossier Velvet | Son silence vient apres l'exclusion. |
 | Tome I | Dagger revient a Gasthaven avec la photo de Ryder. | T1 C1 | Debut de l'enquete. |
 | Tome I | Marcus quitte le club et fonde les Nouvelles Lames. | T1 C10 | Guerre interne. |
-| Tome I | Dagger sauve Stephanie seul. | T1 C16 | Premiere victoire en solo. |
+| Tome I | Marcus capture Stephanie; Dagger et Torch sont choques par la radicalite de Marcus. | T1 C14 | La guerre sort du politique et touche les civils. |
+| Tome I | Torch tente de sauver Stephanie avec l'autorisation de Ghost et Iron, mais sa mission tourne au fiasco et il est tabasse presque a mort par les hommes de Marcus. | T1 C15 | Son besoin d'etre reconnu devient une blessure physique. |
+| Tome I | Dagger sauve Stephanie seul, sans accord du club. | T1 C15 | Premiere victoire en solo et rupture avec l'autorite d'Iron. |
 | Tome II | Scarlett revient incognito. | T2 C3 | Manipulation et revelation progressive. |
 | Tome II | Copper trahit Iron et Ryder en jouant Cain contre Iron. | T2 C8 | Double jeu policier, point de non-retour. |
-| Tome II | Iron est capture puis execute. | T2 C9-C10 | Fin de l'ancien monde. |
+| Tome II | Iron est capture, torture, puis retrouve seulement en fragments: jamais de corps entier, mais des membres eparpilles, dont la tete. | T2 C8 / T3 C1 | Fin de l'ancien monde. |
 | Tome II | Red reprend le controle via Cain, Copper et la dette. | Iron / Mox / Zeke | Le systeme recupere Iron; Torch reste une menace manipulable. |
 | Tome II | Marcus tue Boomer apres la verite sur Velvet. | T2 C13 | Rupture irreversible. |
 | Tome II | Dagger, Mira et Scarlett rejoignent le Convoi. | T2 C17 | Exil de feu. |
-| Tome III | Dagger revient et recoit le patch presidentiel. | T3 C1 | Reconstruction. |
-| Tome III | Razor prend les Nouvelles Lames de Marcus et place Torch au pouvoir. | T3 C3 | Marcus perd son pouvoir et voit son mythe confisque. |
+| Tome III | Dagger revient avec Mira et Angel, puis recoit le patch presidentiel. | T3 C1 | Reconstruction sous pression familiale. |
+| Tome III | Razor prend les Nouvelles Lames de Marcus et place Torch au pouvoir hors des couleurs du Vent. | T3 C3 | Marcus perd son pouvoir; Torch obtient un titre ailleurs, sans devenir frere du Vent. |
 | Tome III | Razor trahit Crimson et protege Ghost. | T3 C5 | Alliance inattendue. |
 | Tome III | Razor tue Red Mox. | T3 C8 | Chute du pere fondateur. |
 | Tome III | Dagger, Marcus et Razor deviennent les nouveaux Cerberes. | T3 C10 | Nouveau visage du club. |

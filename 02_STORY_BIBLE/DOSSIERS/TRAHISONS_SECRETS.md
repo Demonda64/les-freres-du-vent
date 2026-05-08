@@ -127,6 +127,9 @@ Cache:
 - besoin de reconnaissance
 - honte d'etre prospect a vie
 - certitude que le club ne le choisira jamais vraiment
+- ignorance de la vraie raison: Brick a demande qu'on lui refuse les couleurs pour le proteger
+- syndrome de persecution
+- pulsion pyromane
 
 Trahit:
 - Dagger
@@ -140,9 +143,11 @@ Statut canon:
 - prospect a vie
 - jamais pleinement frere
 - homme bloque dans l'attente d'un patch qui ne vient pas
+- peut etre president dans un autre club, mais ne portera jamais les couleurs du Vent
 
 Moment cle:
 - accepte de devenir une menace manipulable parce qu'il reste dehors, meme dedans
+- echoue a sauver Stephanie avec l'accord du club, puis voit Dagger la sauver seul
 
 Impact:
 - blessure de statut permanente

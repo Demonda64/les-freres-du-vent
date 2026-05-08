@@ -113,6 +113,7 @@ Porte le prenom de Red Mox, mais le nom Merel de sa mere.
 A grandi avec Ryder et Zeke hors du monde biker.
 Heritier legitime mais incomplet.
 Pont impossible entre Zeke et Mox.
+Revient au Tome III avec Mira et leur fils Angel, presque deux ans.
 Devient president.
 Entre heritage et rupture.
 
@@ -139,6 +140,16 @@ Ancienne compagne de Ghost.
 Figure quasi maternelle de Ryder, sans ambiguite romantique.
 Protection, route et secrets.
 
+### Mira Lorth
+Veterinaire.
+Ancrage humain de Dagger.
+Revient au Tome III avec Dagger et leur fils Angel.
+
+### Angel
+Fils de Dagger et Mira.
+Presque deux ans au debut du Tome III.
+Symbole vivant de ce que Dagger risque en revenant a Gasthaven.
+
 ### Marcus Colton
 Fils de Jacob Colton et neveu de Boomer.
 Enfant du club.
@@ -152,6 +163,11 @@ Heritier vecu: il appartient au club, connait les rues, mais n'a pas la verite c
 Prospect a vie.
 Jalousie, rejet, destruction.
 Blessure centrale: rester dedans sans jamais etre pleinement frere.
+A grandi autour du club avec Marcus, puis avec Ryder quand celui-ci revient a Gasthaven.
+Ne portera jamais les couleurs des Freres du Vent: Brick l'a voulu pour le proteger apres Velvet.
+Peut obtenir un pouvoir ailleurs, notamment chez les Nouvelles Lames, mais ce pouvoir ne repare jamais le refus du Vent.
+Pyromane et victime d'un syndrome de persecution.
+Developpe dans le Tome I une amitie fragile avec Stephanie, puis echoue a la sauver malgre l'autorisation de Ghost et Iron.
 
 ### Red Mox
 Co-createur des Freres du Vent avec Zeke.
@@ -212,7 +228,7 @@ Dagger se rapproche d'elle sans savoir qui elle est vraiment.
 
 L'enquete revele que Velvet etait un systeme sacrificiel: les Freres livraient des hommes a la police pour que Crimson opere librement. Ryder a tente d'infiltrer ce mecanisme pour l'exposer.
 
-Iron est capture.
+Iron est capture, torture, puis rendu en fragments: jamais de corps entier, seulement des membres eparpilles, dont la tete.
 Boomer avoue.
 Copper est revele comme le relais du double jeu entre Cain et Iron.
 Torch reste une menace nee de son statut de prospect a vie.
@@ -229,7 +245,7 @@ Dagger quitte Gasthaven.
 Reconstruction, choix, heritage.
 
 ### Resume
-Deux ans plus tard, Dagger revient.
+Deux ans plus tard, Dagger revient avec Mira et Angel, leur fils de presque deux ans.
 
 Le club est vide.
 Ghost lui transmet le patch.

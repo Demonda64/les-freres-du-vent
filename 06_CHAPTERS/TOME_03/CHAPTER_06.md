@@ -25,7 +25,7 @@ En trois nuits, ses hommes couperent deux relais de Razor. Pas avec des explosio
 
 Razor descendit lui-meme le quatrieme soir.
 
-Il choisit le marche de nuit, la ou Gasthaven faisait encore semblant d'etre une ville normale. Stands de nourriture, pieces detachees, vetements uses, enfants entre les jambes des adultes. Dagger et Marcus etaient la, avec trois hommes chacun. Scarlett surveillait depuis une allee, pas pour proteger le club, disait-elle. Pour proteger Mira, qui soignait dans une camionnette a l'autre bout du marche.
+Il choisit le marche de nuit, la ou Gasthaven faisait encore semblant d'etre une ville normale. Stands de nourriture, pieces detachees, vetements uses, enfants entre les jambes des adultes. Angel n'etait pas la. Depuis le retour a Gasthaven, Mira avait une regle simple: les soins pouvaient entrer dans la ville, pas son fils. Dagger et Marcus etaient la, avec trois hommes chacun. Scarlett surveillait depuis une allee, pas pour proteger le club, disait-elle. Pour proteger Mira, qui soignait dans une camionnette a l'autre bout du marche.
 
 Razor arriva sans gardes visibles.
 

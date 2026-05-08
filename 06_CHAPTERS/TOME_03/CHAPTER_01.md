@@ -25,7 +25,7 @@ Pas moins dangereuse. Seulement plus basse, plus fatiguee, comme une bete qui au
 
 Il arrivait avec des morts.
 
-Scarlett roulait devant, moto noire, silhouette droite. Mira etait dans le camion du Convoi avec le chien couche a ses pieds. Queenie avait refuse de venir jusqu'au clubhouse. Elle etait restee a la limite de la ville.
+Scarlett roulait devant, moto noire, silhouette droite. Mira etait dans le camion du Convoi avec Angel endormi contre elle, presque deux ans, une main serree dans le tissu de sa chemise. Le chien dormait sous la banquette, museau pose sur les chaussures de l'enfant. Queenie avait refuse de venir jusqu'au clubhouse. Elle etait restee a la limite de la ville.
 
 "Je connais deja la couleur des ruines", avait-elle dit.
 
@@ -51,7 +51,7 @@ Dagger encaissa la phrase. Pas comme une attaque. Comme un test.
 
 Ghost secoua la tete.
 
-"Pas de corps."
+"Pas de corps entier. Quelques membres. La tete."
 
 "Donc pas de tombe."
 
@@ -97,7 +97,7 @@ Ghost se leva lentement. Chaque mouvement de son epaule semblait lui couter.
 
 "Parce que les morts ne demandent pas qu'on sauve les murs. Ils demandent qu'on empeche les vivants de refaire les memes tombes."
 
-Dagger pensa a Ryder. A Boomer dans la poussiere. A Iron disparu. A Marcus avec l'arme encore chaude. A Mira qui avait quitte Gasthaven avec lui, pas pour fuir, mais parce qu'elle refusait que la ville decide seule de ce qui restait d'eux.
+Dagger pensa a Ryder. A Boomer dans la poussiere. A Iron disparu. A Marcus avec l'arme encore chaude. A Mira qui avait quitte Gasthaven avec lui, pas pour fuir, mais parce qu'elle refusait que la ville decide seule de ce qui restait d'eux. A Angel, dehors, trop petit pour comprendre pourquoi son pere revenait dans une ville qui mangeait les fils.
 
 "Je ne suis pas Zeke."
 

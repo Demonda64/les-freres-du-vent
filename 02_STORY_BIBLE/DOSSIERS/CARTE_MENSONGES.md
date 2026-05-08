@@ -133,6 +133,8 @@ Ignore:
 - profondeur du systeme
 - role exact de Velvet
 - que Brick Thorne a pris sa place parce qu'il etait incapable
+- que Brick a demande a Iron de ne jamais lui donner les couleurs pour le proteger
+- que Ghost a recu la charge de veiller sur lui
 
 Choix:
 - chercher a exister
@@ -142,6 +144,17 @@ Statut:
 - prospect a vie
 - pas pleinement frere
 - pas architecte de la capture d'Iron
+- peut devenir president ailleurs, mais jamais porter les couleurs du Vent
+
+Psychologie:
+- pyromane
+- syndrome de persecution
+- transforme les refus en preuves qu'on veut l'effacer
+
+Lien Tome I:
+- developpe une amitie fragile avec Stephanie
+- tente de la sauver avec autorisation d'Iron et Ghost
+- echoue, se fait tabasser presque a mort, puis voit Dagger reussir sans accord
 
 ### Copper
 
