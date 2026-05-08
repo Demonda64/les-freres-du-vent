@@ -49,3 +49,11 @@ Une fois le depot `Demonda64/les-freres-du-vent` pousse sur GitHub, le lecteur s
 ```text
 https://demonda64.github.io/les-freres-du-vent/12_READER_SITE/
 ```
+
+## Acces public immediat via CDN
+
+Si GitHub Pages n'est pas encore active dans les settings du depot, le lecteur est accessible via jsDelivr:
+
+```text
+https://cdn.jsdelivr.net/gh/Demonda64/les-freres-du-vent@main/12_READER_SITE/index.html
+```
