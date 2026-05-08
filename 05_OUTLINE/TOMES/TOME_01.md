@@ -41,7 +41,7 @@ La guerre n'est que la consequence.
 - Acte III: L'Ultime Ride - guerre, choix, naissance de Dagger.
 
 ## Resume
-Dagger revient a Gasthaven avec une photo usee de Ryder et d'une femme rousse qu'il ne connait pas. Il demande a entrer chez les Freres du Vent, club use dirige par Iron, president froid qui garde trop de silences, et surveille par Ghost et Boomer.
+Silas revient a Gasthaven avec une photo usee de Ryder et d'une femme rousse qu'il ne connait pas. Il n'a presque aucune information, aucun contact fiable, aucun plan clair. Il tombe d'abord sur le chien noir, puis sur Mira. Plus tard, dans un bar, il croise par hasard Iron, Ghost et Boomer sans savoir qu'ils sont les Cerberes. Pendant une bagarre, Silas sauve Ghost d'un coup de couteau. Ghost le surnomme alors Dagger. Ce geste lui ouvre une porte: il ne demande pas encore a entrer chez les Freres du Vent, il negocie d'abord une nuit dans leur garage.
 
 Le club ne ressemble pas a une famille. Il ressemble a un garage qui a appris a mentir.
 
@@ -61,7 +61,7 @@ Image finale: Dagger sous la pluie, couvert d'huile et de sang, vivant dans les 
 
 | Episode | Titre | Acte | Hook | Tension | Rupture / Cliffhanger |
 | --- | --- | --- | --- | --- | --- |
-| 01 | Le vent ne parle pas | I | Dagger arrive avec la photo. | Personne ne parle de Ryder. | Il entre au club sans obtenir de reponse. |
+| 01 | Le vent ne parle pas | I | Silas arrive avec la photo et zero piste claire. | Il aide les Cerberes par hasard dans un bar sans savoir qui ils sont. | Ghost le surnomme Dagger apres qu'il l'a sauve d'un coup de couteau; Silas negocie une nuit au garage. |
 | 02 | Les Petits Cerberes | I | Dagger est associe a Marcus et Torch. | Marcus occupe le terrain; Torch reste prospect a vie. | Le trio nait deja fissure. |
 | 03 | Silas, pas Dagger | I | Stephanie revient chercher Silas. | Dagger refuse son ancienne vie; Torch reconnait une autre personne laissee dehors. | Dagger choisit le masque Dagger, tandis qu'une amitie Stephanie/Torch commence. |
 | 04 | L'autre Lame | I | Marcus parle de La Lame. | Sa version est brillante mais incomplete. | Dagger comprend que l'histoire de Ryder a ete retouchee. |

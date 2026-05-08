@@ -42,7 +42,7 @@ Objectif: installer le monde, les tensions et les mysteres.
 
 | Episode | Titre | Hook | Tension | Rupture / Cliffhanger |
 | --- | --- | --- | --- | --- |
-| 01 | Le vent ne parle pas | Dagger arrive avec la photo. | Personne ne parle de Ryder. | Il entre au club sans obtenir de reponse. |
+| 01 | Le vent ne parle pas | Silas arrive avec la photo et zero piste claire. | Il tombe par hasard sur les Cerberes dans un bar sans savoir qui ils sont. | Il sauve Ghost d'un coup de couteau; Ghost le surnomme Dagger; Silas negocie une nuit au garage. |
 | 02 | Les Petits Cerberes | Dagger est associe a Marcus et Torch. | Marcus occupe le terrain; Torch reste prospect a vie. | Le trio nait deja fissure. |
 | 03 | Silas, pas Dagger | Passe civil revient avec Stephanie. | Identite refusee; Torch reconnait en elle quelqu'un laisse dehors. | Dagger choisit le masque Dagger, tandis qu'une amitie Stephanie/Torch commence. |
 | 04 | L'autre Lame | Marcus mentionne La Lame. | Sa version est brillante mais incomplete. | Dagger comprend que l'histoire de Ryder a ete retouchee. |

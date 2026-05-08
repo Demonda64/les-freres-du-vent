@@ -196,9 +196,11 @@ Dernier heritier de Crimson.
 Naissance, loyautes fracturees, verite enterree.
 
 ### Resume
-Dagger arrive a Gasthaven avec une photo de son frere.
+Silas arrive a Gasthaven avec une photo de son frere et presque aucune information.
 
-Il integre un club en ruine, dirige par Iron et les Cerberes.
+Il tombe par hasard sur les Cerberes dans un bar sans savoir qui ils sont. Pendant une bagarre, il sauve Ghost d'un coup de couteau. Ghost le surnomme alors Dagger.
+
+Il entre ensuite dans l'orbite d'un club en ruine, dirige par Iron et les Cerberes.
 Il observe, apprend, agit.
 
 Il decouvre peu a peu l'existence de La Lame, une cellule formee par son frere et d'autres membres du club.

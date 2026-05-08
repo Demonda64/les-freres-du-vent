@@ -7,6 +7,7 @@
 | Gasthaven | Ville fictive du sud-ouest americain, rongee par la rouille, le silence et les dettes. | Saga | Lieu principal. |
 | Les Freres du Vent | Club biker principal, anciennement redoute, moralement ruine au debut de la saga. | Saga | Devient l'axe de reconstruction de Dagger. |
 | Dagger | Silas Merel, fils de Zeke Kane, demi-frere de Ryder, futur president. | Saga | A grandi protege du monde biker; heritier legitime mais incomplet. |
+| Surnom Dagger | Ghost surnomme Silas "Dagger" apres que Silas lui sauve la vie d'un coup de couteau dans une bagarre de bar. | T1 C1 | Silas aide les Cerberes sans savoir qui ils sont; le surnom vient avant la place au club. |
 | Ryder | Isaiah Kane, demi-frere disparu de Dagger, moteur invisible de toute la saga. | Saga | Revient a Gasthaven apres la mort de Zeke; mort lors de Velvet. |
 | Velvet | Systeme sacrificiel organise par les anciens leaders: livrer des hommes pour que la police fasse du resultat et que Crimson opere librement. | Dossier Velvet | Crime accepte, pas erreur. |
 | Crimson Cross | Cartel de clubs bikers interconnectes, controle par influence, dette et violence. | Crimson economie | Au sommet: Silas "Red" Mox. |
@@ -72,7 +73,7 @@
 | Avant / pendant Velvet | Red utilise Velvet pour recuperer Ryder, le tester ou l'eliminer. | Dossier Velvet | Cain tue Ryder quand il decouvre la mission secrete de Ryder. |
 | Avant / pendant Velvet | Iron connait le systeme Velvet, l'infiltration de Ryder et remplace Torch par Brick. | Dossier Velvet | Il achete ensuite le silence de Queenie. |
 | Apres Velvet | Ghost decouvre trop tard la vraie nature de Velvet; Iron, Boomer et Scarlett la lui avaient cachee parce qu'il aurait refuse. | Dossier Velvet | Son silence vient apres l'exclusion. |
-| Tome I | Dagger revient a Gasthaven avec la photo de Ryder. | T1 C1 | Debut de l'enquete. |
+| Tome I | Silas revient a Gasthaven avec la photo de Ryder et presque aucune information. | T1 C1 | Il tombe par hasard sur les Cerberes dans un bar, sauve Ghost d'un coup de couteau, recoit le surnom Dagger, puis negocie une nuit au garage. |
 | Tome I | Marcus quitte le club et fonde les Nouvelles Lames. | T1 C10 | Guerre interne. |
 | Tome I | Marcus capture Stephanie; Dagger et Torch sont choques par la radicalite de Marcus. | T1 C14 | La guerre sort du politique et touche les civils. |
 | Tome I | Torch tente de sauver Stephanie avec l'autorisation de Ghost et Iron, mais sa mission tourne au fiasco et il est tabasse presque a mort par les hommes de Marcus. | T1 C15 | Son besoin d'etre reconnu devient une blessure physique. |

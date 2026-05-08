@@ -13,6 +13,14 @@ Silas est le prenom de Red Mox.
 
 Merel est le nom herite de sa mere.
 
+Dagger n'est pas un nom choisi avant Gasthaven.
+
+Ghost lui donne ce surnom au Tome I, dans un bar, apres que Silas lui sauve la vie en interceptant un coup de couteau pendant une bagarre.
+
+Silas aide alors les Cerberes sans savoir qui ils sont.
+
+Le surnom reste parce qu'il vient de Ghost, et parce qu'il nomme ce que Silas a fait avant meme de comprendre le club: entrer entre une lame et un homme.
+
 Zeke donne a son fils le prenom de son meilleur ami devenu son oppose, mais pas son nom.
 
 Ce choix fait de Dagger:
@@ -40,6 +48,16 @@ Il herite donc:
 - du nom de sa mere
 - de la dette
 - mais pas de la memoire complete
+
+Au debut du Tome I, il arrive a Gasthaven avec presque aucune information:
+- une photo de Ryder
+- une femme rousse inconnue sur l'image
+- aucun contact fiable
+- aucun plan clair
+
+Il rencontre les Cerberes par hasard dans un bar.
+
+Il negocie ensuite une nuit dans le garage, pas une place immediate dans le club.
 
 ## Conflit Central
 
