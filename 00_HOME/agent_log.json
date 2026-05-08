@@ -1,0 +1,10 @@
+{
+    "agent_runs":  [
+                       {
+                           "timestamp":  "2026-05-08T00:12:05",
+                           "agent":  "cover",
+                           "handoff":  "C:\\Users\\HP\\Documents\\business\\AI_BOOK_STUDIO\\PROJECTS\\LES_FRERES_DU_VENT\\00_HOME\\agent_handoffs\\handoff_20260508_001205_cover.md",
+                           "mode":  "prepared"
+                       }
+                   ]
+}

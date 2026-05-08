@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Les Freres du Vent - Lecteur</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Navigation des chapitres">
+        <div class="brand-block">
+          <p class="series-label">AI Book Studio</p>
+          <h1>Les Freres du Vent</h1>
+          <p class="series-note">Lecteur de projet pour le Tome I.</p>
+        </div>
+
+        <div class="search-block">
+          <label for="searchInput">Recherche</label>
+          <input id="searchInput" type="search" placeholder="Ryder, Velvet, Copper..." autocomplete="off" />
+        </div>
+
+        <nav class="chapter-list" id="chapterList"></nav>
+      </aside>
+
+      <main class="reader">
+        <header class="reader-toolbar">
+          <div>
+            <p class="reader-kicker" id="chapterStatus">Chargement</p>
+            <h2 id="chapterTitle">Tome I</h2>
+          </div>
+          <div class="toolbar-actions">
+            <button class="icon-button" id="decreaseFont" type="button" aria-label="Reduire la taille du texte">A-</button>
+            <button class="icon-button" id="increaseFont" type="button" aria-label="Augmenter la taille du texte">A+</button>
+            <button class="icon-button" id="themeToggle" type="button" aria-label="Changer le theme">Mode</button>
+          </div>
+        </header>
+
+        <section class="overview-panel">
+          <div class="overview-item">
+            <span>Tome</span>
+            <strong>Tome I</strong>
+          </div>
+          <div class="overview-item">
+            <span>Chapitres</span>
+            <strong id="chapterCount">15</strong>
+          </div>
+          <div class="overview-item">
+            <span>Lecture</span>
+            <strong id="readingProgress">0%</strong>
+          </div>
+        </section>
+
+        <section class="view-switch" aria-label="Sections du chapitre">
+          <button class="switch-button active" type="button" data-view="prose">Prose</button>
+          <button class="switch-button" type="button" data-view="full">Fiche complete</button>
+          <button class="switch-button" type="button" data-view="notes">Notes</button>
+        </section>
+
+        <article class="chapter-content" id="chapterContent"></article>
+
+        <footer class="reader-footer">
+          <button class="nav-button" id="previousChapter" type="button">Chapitre precedent</button>
+          <button class="nav-button primary" id="nextChapter" type="button">Chapitre suivant</button>
+        </footer>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,134 @@
+# TOME I - LES FRERES DU VENT - VERSION WRITERS ROOM
+
+## ADN Du Tome
+
+### Theme Central
+Loyautes fracturees / Heritage / Verite enterree.
+
+### Question Dramatique
+Qui a trahi Ryder, et pourquoi personne ne veut le dire ?
+
+### Arc De Dagger
+- Debut: etranger silencieux
+- Milieu: observateur implique
+- Fin: acteur central du conflit
+
+## Courbe Globale
+
+```text
+ACTE 1 -> observation / integration / dette invisible
+ACTE 2 -> enquete / tension / revelations partielles
+ACTE 3 -> guerre / rupture / transformation
+```
+
+## Loi Du Tome
+Chaque episode doit:
+- reveler une piece du passe
+- aggraver une tension presente
+- preparer une explosion future
+
+## Canon A Respecter
+- Dagger decouvre en meme temps que le lecteur.
+- Marcus est le terrain vivant: il connait club, rues, reseaux.
+- Torch est prospect a vie: sa blessure est le non-choix permanent.
+- Copper est deja le signe du double jeu police / club / Crimson.
+- Iron est coupable de silence, mais aussi piege par un pacte qui le depasse.
+- Velvet apparait comme piege; le systeme complet sera devoile plus tard.
+
+## Structure En 3 Actes
+
+### Acte I - Les Chiens Muets
+Objectif: installer le monde, les tensions et les mysteres.
+
+| Episode | Titre | Hook | Tension | Rupture / Cliffhanger |
+| --- | --- | --- | --- | --- |
+| 01 | Le vent ne parle pas | Dagger arrive avec la photo. | Personne ne parle de Ryder. | Il entre au club sans obtenir de reponse. |
+| 02 | Les Petits Cerberes | Dagger est associe a Marcus et Torch. | Marcus occupe le terrain; Torch reste prospect a vie. | Le trio nait deja fissure. |
+| 03 | Silas, pas Dagger | Passe civil revient avec Stephanie. | Identite refusee. | Il choisit le masque Dagger. |
+| 04 | L'autre Lame | Marcus mentionne La Lame. | Sa version est brillante mais incomplete. | Dagger comprend que l'histoire de Ryder a ete retouchee. |
+| 05 | Le pacte | Copper menace Iron. | Dette invisible, police trop informee. | Dagger comprend que la police est dans le systeme. |
+| 06 | La photo | Scarlett revelee visuellement. | Lien emotionnel inconnu. | Qui est-elle vraiment ? |
+
+### Acte II - Ceux Qui Parlent Bas
+Objectif: faire monter la tension et reveler Velvet sans tout expliquer.
+
+| Episode | Titre | Hook | Tension | Rupture / Cliffhanger |
+| --- | --- | --- | --- | --- |
+| 07 | Le pacte de la Lame | Boomer parle. | Verite partielle, faute retenue. | La Lame existait vraiment. |
+| 08 | Livraison pour la Reine | Queenie reconnait Ryder. | Scarlett, tutelle, disparition. | Velvet devient un nom actif. |
+| 09 | Separation | Marcus quitte le club. | Fracture interne, Iron ne retient pas. | Naissance des Nouvelles Lames. |
+| 10 | Les cendres | Sabotages et pertes. | Club affaibli, routes menacees. | Guerre imminente. |
+| 11 | Revelation | Queenie parle davantage. | Velvet etait un piege. | Ryder a ete sacrifie. |
+| 12 | Les Cerberes | Ripostes d'Iron, Boomer, Ghost. | Chaque ancien revele sa methode. | Dagger voit trois formes de silence. |
+| 13 | Dagger s'impose | Reussite strategique. | Marcus et Torch le regardent autrement. | Dagger devient impossible a ignorer. |
+
+### Acte III - L'Ultime Ride
+Objectif: explosion et consequences.
+
+| Episode | Titre | Hook | Tension | Rupture / Image Finale |
+| --- | --- | --- | --- | --- |
+| 14 | Conflit ouvert | Les Lames frappent directement. | Guerre declaree. | Plus de retour possible. |
+| 15 | L'ultime ride | Affrontement final. | Survie du club. | Dagger survit, le club reste debout mais fissure. |
+
+Image finale:
+- Dagger sous la pluie.
+- Huile, sang, rouille.
+- Toujours debout.
+
+## Moteur Narratif Du Tome I
+
+### Mysteres Actifs
+- Velvet.
+- Responsabilite d'Iron.
+- Double jeu latent de Copper.
+- Disparition de Scarlett.
+- Faute de Boomer.
+- Place reelle de Marcus.
+- Blessure de Torch comme prospect a vie.
+
+### Conflits Principaux
+- Dagger vs silence.
+- Marcus vs anciens.
+- Torch vs son non-statut.
+- Iron vs pacte.
+- Copper vs verite.
+- club vs lui-meme.
+
+## Evolutions Cles
+
+### Dagger
+Devient legitime sans le vouloir.
+
+### Marcus
+Passe de frere de terrain a rival politique.
+
+### Torch
+Ne trahit pas encore comme cerveau: il se fissure parce qu'il reste prospect a vie.
+
+### Boomer
+Culpabilite grandissante.
+
+### Ghost
+Observe, protege, comprend que le passe remonte.
+
+### Iron
+Garde le mensonge Velvet et croit encore tenir Copper.
+
+### Copper
+Presence policiere trop informee. Son double jeu futur doit etre pressenti, jamais explique.
+
+## Cliffhangers Majeurs
+- Ryder etait lie au club.
+- La Lame existait.
+- Scarlett est centrale.
+- Velvet est un piege.
+- Copper sait trop.
+- Ryder a ete sacrifie.
+- Marcus devient ennemi.
+
+## Note Creative
+Le Tome I n'est pas une histoire de guerre.
+
+C'est une histoire de verite qui remonte a la surface.
+
+La guerre n'est que la consequence.

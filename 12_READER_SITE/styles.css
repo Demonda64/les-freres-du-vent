@@ -1,0 +1,366 @@
+:root {
+  color-scheme: light;
+  --bg: #f3f0ea;
+  --paper: #fffaf0;
+  --paper-strong: #fff4df;
+  --ink: #1e1a17;
+  --muted: #756c63;
+  --border: #d9ccba;
+  --accent: #a33b27;
+  --accent-dark: #742617;
+  --shadow: 0 18px 55px rgba(54, 34, 20, 0.13);
+  --reader-size: 18px;
+}
+
+:root.dark {
+  color-scheme: dark;
+  --bg: #171512;
+  --paper: #211e19;
+  --paper-strong: #2b251d;
+  --ink: #f2eadc;
+  --muted: #b9aa98;
+  --border: #40362c;
+  --accent: #df7057;
+  --accent-dark: #f09a82;
+  --shadow: 0 18px 55px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    linear-gradient(90deg, rgba(120, 49, 30, 0.08), transparent 34%),
+    var(--bg);
+  color: var(--ink);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.app-shell {
+  display: grid;
+  grid-template-columns: 340px minmax(0, 1fr);
+  min-height: 100vh;
+}
+
+.sidebar {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow: auto;
+  padding: 28px 22px;
+  border-right: 1px solid var(--border);
+  background: rgba(255, 250, 240, 0.74);
+  backdrop-filter: blur(16px);
+}
+
+:root.dark .sidebar {
+  background: rgba(33, 30, 25, 0.76);
+}
+
+.brand-block {
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+}
+
+.series-label,
+.reader-kicker {
+  margin: 0 0 8px;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.brand-block h1 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 34px;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.series-note {
+  margin: 12px 0 0;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.search-block {
+  display: grid;
+  gap: 8px;
+  margin: 22px 0 18px;
+}
+
+.search-block label {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.search-block input {
+  width: 100%;
+  padding: 12px 13px;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  background: var(--paper);
+  color: var(--ink);
+  outline: none;
+}
+
+.search-block input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(163, 59, 39, 0.16);
+}
+
+.chapter-list {
+  display: grid;
+  gap: 8px;
+}
+
+.chapter-card {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--ink);
+  text-align: left;
+  cursor: pointer;
+}
+
+.chapter-card:hover,
+.chapter-card.active {
+  border-color: var(--border);
+  background: var(--paper);
+}
+
+.chapter-card.active {
+  box-shadow: var(--shadow);
+}
+
+.chapter-number {
+  display: block;
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.chapter-name {
+  display: block;
+  margin-top: 4px;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+.chapter-meta {
+  display: block;
+  margin-top: 5px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.reader {
+  width: min(960px, calc(100vw - 380px));
+  margin: 0 auto;
+  padding: 34px 34px 52px;
+}
+
+.reader-toolbar {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+  margin-bottom: 18px;
+}
+
+.reader-toolbar h2 {
+  margin: 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 46px;
+  line-height: 1.05;
+  letter-spacing: 0;
+}
+
+.toolbar-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.icon-button,
+.nav-button,
+.switch-button {
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 800;
+}
+
+.icon-button {
+  min-width: 46px;
+  height: 40px;
+}
+
+.overview-panel {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 18px 0;
+}
+
+.overview-item {
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--paper-strong);
+}
+
+.overview-item span {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.overview-item strong {
+  display: block;
+  margin-top: 6px;
+  font-size: 18px;
+}
+
+.view-switch {
+  display: flex;
+  gap: 8px;
+  margin: 20px 0;
+}
+
+.switch-button {
+  padding: 10px 14px;
+}
+
+.switch-button.active,
+.nav-button.primary {
+  border-color: var(--accent);
+  background: var(--accent);
+  color: #fffaf0;
+}
+
+.chapter-content {
+  min-height: 62vh;
+  padding: 38px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--paper);
+  box-shadow: var(--shadow);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: var(--reader-size);
+  line-height: 1.78;
+}
+
+.chapter-content h1,
+.chapter-content h2,
+.chapter-content h3 {
+  line-height: 1.2;
+}
+
+.chapter-content h1 {
+  margin: 0 0 24px;
+  font-size: 36px;
+}
+
+.chapter-content h2 {
+  margin: 28px 0 10px;
+  color: var(--accent-dark);
+  font-size: 24px;
+}
+
+.chapter-content p {
+  margin: 0 0 1.05em;
+}
+
+.chapter-content ul,
+.chapter-content ol {
+  padding-left: 24px;
+}
+
+.chapter-content blockquote {
+  margin: 20px 0;
+  padding-left: 18px;
+  border-left: 3px solid var(--accent);
+  color: var(--muted);
+}
+
+.empty-state {
+  color: var(--muted);
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+.reader-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.nav-button {
+  padding: 12px 16px;
+}
+
+.nav-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+mark {
+  border-radius: 3px;
+  background: rgba(223, 112, 87, 0.28);
+  color: inherit;
+}
+
+@media (max-width: 860px) {
+  .app-shell {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: relative;
+    height: auto;
+    max-height: 52vh;
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .reader {
+    width: 100%;
+    padding: 24px 18px 36px;
+  }
+
+  .reader-toolbar {
+    flex-direction: column;
+  }
+
+  .reader-toolbar h2 {
+    font-size: 34px;
+  }
+
+  .overview-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .chapter-content {
+    padding: 24px;
+  }
+}

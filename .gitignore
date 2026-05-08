@@ -1,0 +1,19 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs and temp
+*.log
+tmp/
+temp/
+
+# Dependencies / builds
+node_modules/
+dist/
+build/
+
+# Large generated exports can be added manually when needed.

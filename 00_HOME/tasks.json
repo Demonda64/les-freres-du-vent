@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "T001",
+      "phase": "02 Story Bible",
+      "title": "Create individual character sheets for Dagger, Ghost, Boomer, Scarlett, Marcus and Torch",
+      "status": "todo",
+      "file": "03_CHARACTERS"
+    },
+    {
+      "id": "T002",
+      "phase": "03 Outline",
+      "title": "Turn Tome I chapter map into production chapter files",
+      "status": "in_progress",
+      "file": "06_CHAPTERS/TOME_01"
+    },
+    {
+      "id": "T004",
+      "phase": "04 Draft 01",
+      "title": "Chapter 1 validated",
+      "status": "done",
+      "file": "06_CHAPTERS/TOME_01/CHAPTER_01.md"
+    },
+    {
+      "id": "T005",
+      "phase": "04 Draft 01",
+      "title": "Prepare and draft Tome I Chapter 2",
+      "status": "in_progress",
+      "file": "06_CHAPTERS/TOME_01/CHAPTER_02.md"
+    },
+    {
+      "id": "T003",
+      "phase": "08 Export",
+      "title": "Generate cover direction with ChatGPT Image 2 / GPT Image 2",
+      "status": "todo",
+      "file": "11_COVER/COVER_BRIEF.md"
+    }
+  ]
+}
