@@ -42,9 +42,9 @@ http://localhost:8765/12_READER_SITE/
 
 ## Publication GitHub Pages
 
-Le workflow `.github/workflows/pages.yml` publie le projet statique sur GitHub Pages.
+Le depot est publie via la branche `gh-pages`.
 
-Une fois le depot `Demonda64/les-freres-du-vent` pousse sur GitHub, le lecteur sera accessible a:
+Le lecteur est accessible a:
 
 ```text
 https://demonda64.github.io/les-freres-du-vent/12_READER_SITE/
