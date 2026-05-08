@@ -3,7 +3,9 @@
 ## Version
 Reecriture canonique apres corrections Copper / Torch / Marcus.
 
-Voir aussi: `05_OUTLINE/TOMES/TOME_01_WRITERS_ROOM.md`
+Voir aussi:
+- `05_OUTLINE/TOMES/TOME_01_WRITERS_ROOM.md`
+- `05_OUTLINE/TOMES/TOME_01_SUBPLOTS_MATRIX.md`
 
 ## Duree
 1 an.
@@ -39,6 +41,17 @@ La guerre n'est que la consequence.
 - Acte I: Les Chiens Muets - observation, integration, dette invisible.
 - Acte II: Ceux qui parlent bas - enquete, fragments, fracture.
 - Acte III: L'Ultime Ride - guerre, choix, naissance de Dagger.
+
+## Structure
+La structure en 15 episodes est la colonne vertebrale actuelle.
+
+Elle peut etre etendue a 18 ou 19 chapitres si les intrigues secondaires ont besoin de leur propre POV:
+- Stephanie / Torch peut devenir un chapitre autonome avant la rupture avec Silas.
+- Marcus peut avoir un chapitre terrain avant son depart officiel.
+- Les trois guerres des Cerberes peuvent etre separees en trois chapitres.
+- L'echec de Torch et le sauvetage de Stephanie par Dagger peuvent etre separes pour renforcer la chute de Torch.
+
+Voir la version detaillee dans `05_OUTLINE/TOMES/TOME_01_SUBPLOTS_MATRIX.md`.
 
 ## Resume
 Silas revient a Gasthaven avec une photo usee de Ryder et d'une femme rousse qu'il ne connait pas. Il n'a presque aucune information, aucun contact fiable, aucun plan clair. Il tombe d'abord sur le chien noir, puis sur Mira. Plus tard, dans un bar, il croise par hasard Iron, Ghost et Boomer sans savoir qu'ils sont les Cerberes. Pendant une bagarre, Silas sauve Ghost d'un coup de couteau. Ghost le surnomme alors Dagger. Ce geste lui ouvre une porte: il ne demande pas encore a entrer chez les Freres du Vent, il negocie d'abord une nuit dans leur garage.

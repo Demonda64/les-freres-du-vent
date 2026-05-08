@@ -1,5 +1,7 @@
 # TOME I - LES FRERES DU VENT - VERSION WRITERS ROOM
 
+Voir aussi: `05_OUTLINE/TOMES/TOME_01_SUBPLOTS_MATRIX.md`
+
 ## ADN Du Tome
 
 ### Theme Central
@@ -26,6 +28,23 @@ Chaque episode doit:
 - reveler une piece du passe
 - aggraver une tension presente
 - preparer une explosion future
+
+## Elasticite Des Chapitres
+La structure actuelle peut etre rallongee.
+
+Un episode devient chapitre autonome si:
+- il adopte un autre POV fort;
+- il transforme une relation;
+- il installe une consequence qui paiera plus tard;
+- il permet de mieux faire respirer une intrigue secondaire ou tertiaire.
+
+Priorites d'expansion:
+- Stephanie / Torch;
+- Marcus et le terrain;
+- Iron / Copper;
+- Kellen et la piste policiere;
+- les trois missions des Cerberes;
+- le chien noir devant un Cerbere.
 
 ## Canon A Respecter
 - Dagger decouvre en meme temps que le lecteur.
