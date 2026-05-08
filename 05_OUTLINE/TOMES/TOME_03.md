@@ -29,7 +29,7 @@ Dagger revient a Gasthaven dans un monde deja perdu avec Mira et leur fils Angel
 | --- | --- | --- | --- | --- | --- |
 | 01 | La promesse | I | Dagger revient a Gasthaven avec Mira et Angel. | Le club est vide; son fils rend le retour plus dangereux. | Ghost lui remet le patch. |
 | 02 | Les ruines | I | Tentative de reconstruction. | Absence de structure. | Le passe empeche d'avancer. |
-| 03 | Razor | I | Arrivee de Razor avec quatre gardes et une presence de terrain. | Il prend les Nouvelles Lames de Marcus. | Humiliation de Marcus et Torch place au pouvoir hors des couleurs du Vent. |
+| 03 | Razor | I | Arrivee de Razor avec quatre gardes et une presence de terrain. | Il prend les Nouvelles Lames de Marcus dans une bagarre brutale. | Marcus est battu et force de reconnaitre Torch comme president hors des couleurs du Vent. |
 | 04 | Provoquer la chute | I | Torch agit par haine. | Chaos interne. | Ghost est blesse. |
 | 05 | Fraternite forcee | I | Alliance Dagger / Marcus. | Mefiance mutuelle. | Necessite de cooperer. |
 | 06 | Le prix du sang | II | Affrontements directs. | Duel presque amical Scarlett / Razor, puis trahison de Torch. | Torch creve un oeil de Scarlett; Razor l'assomme; Torch fuit dans un grand incendie. |

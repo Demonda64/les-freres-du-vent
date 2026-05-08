@@ -84,7 +84,7 @@
 | Tome II | Marcus tue Boomer apres la verite sur Velvet. | T2 C13 | Rupture irreversible. |
 | Tome II | Dagger, Mira et Scarlett rejoignent le Convoi. | T2 C17 | Exil de feu. |
 | Tome III | Dagger revient avec Mira et Angel, puis recoit le patch presidentiel. | T3 C1 | Reconstruction sous pression familiale. |
-| Tome III | Razor prend les Nouvelles Lames de Marcus et place Torch au pouvoir hors des couleurs du Vent. | T3 C3 | Marcus perd son pouvoir; Torch obtient un titre ailleurs, sans devenir frere du Vent. |
+| Tome III | Razor prend les Nouvelles Lames de Marcus apres une bagarre brutale et place Torch au pouvoir hors des couleurs du Vent. | T3 C3 | Marcus est battu devant ses hommes et force de reconnaitre Torch comme president pour sauver un jeune des Lames. |
 | Tome III | Torch creve un oeil de Scarlett au couteau pendant qu'elle se bat contre Razor presque amicalement. | T3 C6 | Attaque en traitre; Razor est emu par Scarlett, assomme Torch, puis Torch fuit en declenchant un grand feu. |
 | Tome III | Razor trahit Crimson et protege Ghost. | T3 C5 | Alliance inattendue. |
 | Tome III | Razor tue Red Mox. | T3 C8 | Chute du pere fondateur. |
