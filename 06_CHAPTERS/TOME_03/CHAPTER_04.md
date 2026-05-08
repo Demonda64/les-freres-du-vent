@@ -25,7 +25,7 @@ La clinique de Mira.
 
 Pas pour la tuer. Pas consciemment. Torch n'avait jamais ete assez clair pour viser le vrai centre. Il attaquait les endroits ou les autres avaient trouve ce qu'on lui refusait: refuge, regard, appartenance.
 
-Deux motos passerent devant la clinique a la tombee du jour. Puis une troisieme. Dagger etait a l'interieur, aidant Mira a fermer les cages. Angel etait reste avec Queenie au camp du Convoi; Mira n'avait accepte de rouvrir la clinique qu'a cette condition. Le chien dormait sous le bureau. Scarlett attendait dehors, cigarette eteinte entre les doigts.
+Deux motos passerent devant la clinique a la tombee du jour. Puis une troisieme. Dagger etait a l'interieur, aidant Mira a fermer les cages. Angel etait reste avec Queenie au camp du Convoi; Mira n'avait accepte de rouvrir la clinique qu'a cette condition. Le chien noir dormait sous le bureau, alors que personne ne l'avait vu entrer. Scarlett attendait dehors, cigarette eteinte entre les doigts.
 
 La premiere pierre traversa la vitre.
 

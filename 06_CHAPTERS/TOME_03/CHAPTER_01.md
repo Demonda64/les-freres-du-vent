@@ -25,7 +25,7 @@ Pas moins dangereuse. Seulement plus basse, plus fatiguee, comme une bete qui au
 
 Il arrivait avec des morts.
 
-Scarlett roulait devant, moto noire, silhouette droite. Mira etait dans le camion du Convoi avec Angel endormi contre elle, presque deux ans, une main serree dans le tissu de sa chemise. Le chien dormait sous la banquette, museau pose sur les chaussures de l'enfant. Queenie avait refuse de venir jusqu'au clubhouse. Elle etait restee a la limite de la ville.
+Scarlett roulait devant, moto noire, silhouette droite. Mira etait dans le camion du Convoi avec Angel endormi contre elle, presque deux ans, une main serree dans le tissu de sa chemise. Le chien noir dormait sous la banquette, museau pose sur les chaussures de l'enfant. Ou son ombre. Dagger ne l'avait pas vu monter. Queenie avait refuse de venir jusqu'au clubhouse. Elle etait restee a la limite de la ville.
 
 "Je connais deja la couleur des ruines", avait-elle dit.
 

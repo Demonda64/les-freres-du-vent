@@ -77,6 +77,24 @@ Elle se veut libre, mais elle protege les autres par le secret.
 
 Elle refuse les familles fixes, mais devient une mere de guerre.
 
+## Tome III - Blessure
+
+Scarlett perd un oeil au Tome III.
+
+Elle se bat contre Razor presque amicalement, dans une tension de respect et de danger. Razor est touche par elle parce qu'elle ne le regarde ni comme un prince, ni comme un monstre.
+
+Torch l'attaque alors en traitre avec un couteau et lui creve un oeil.
+
+Cette blessure n'appartient pas a Razor.
+
+Elle appartient a Torch:
+- jalousie
+- humiliation
+- besoin d'interrompre un regard qui ne se pose pas sur lui
+- pyromanie qui devient fuite
+
+Razor assomme Torch, trop tard pour empecher la mutilation.
+
 ## Writers Room Rule
 Toute scene Scarlett / Dagger doit contenir:
 - une protection
@@ -90,3 +108,4 @@ Toute scene Scarlett / Dagger doit contenir:
 - Scarlett protege sans expliquer.
 - Scarlett connait la vraie nature de Velvet et la cache a Ghost.
 - Son retour au Tome II doit faire sentir qu'elle sait plus qu'elle ne donne.
+- Au Tome III, elle repart libre mais marquee: un oeil perdu, aucune appartenance acceptee.

@@ -57,7 +57,7 @@ Final:
 1. Dagger revient.
 2. Razor domine.
 3. Torch revient.
-4. Scarlett blessee.
+4. Scarlett perd un oeil par la trahison de Torch.
 5. Razor doute.
 6. Grimm arrive.
 7. Razor tue Red Mox.

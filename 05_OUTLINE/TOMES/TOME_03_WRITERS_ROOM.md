@@ -39,7 +39,7 @@ Objectif: guerre totale et transformation des ennemis.
 
 | Episode | Titre | Hook | Tension | Rupture |
 | --- | --- | --- | --- | --- |
-| 06 | Le prix du sang | Affrontements directs. | Pertes humaines. | Scarlett blessee par Razor. |
+| 06 | Le prix du sang | Affrontements directs. | Duel presque amical Scarlett / Razor, puis trahison de Torch. | Torch creve un oeil de Scarlett; Razor l'assomme; Torch fuit dans un grand incendie. |
 | 07 | Le choix de Razor | Razor observe Dagger et Marcus. | Conflit interieur. | Il trahit Crimson. |
 | 08 | Le retour de Grimm | Arrivee du veritable danger. | Menace absolue. | Guerre inevitable. |
 | 09 | Le siege | Gasthaven assiegee. | Survie collective. | Torch echoue et fuit. |
@@ -109,15 +109,18 @@ Devient indispensable parce qu'il peut reconstruire un reseau de terrain et parl
 
 ### Razor
 Passe d'ennemi a pilier.
+Son basculement commence quand Scarlett se bat contre lui sans peur et que Torch la mutile en traitre.
 
 ### Ghost
 Disparait apres transmission.
 
 ### Torch
 Perd tout, chaos futur.
+Il creve un oeil de Scarlett au couteau, en traitre, puis fuit en declenchant un feu de grande envergure.
 
 ### Scarlett
 Reste libre, hors systeme.
+Elle perd un oeil dans le Tome III, frappee par Torch pendant qu'elle affrontait Razor.
 
 ## Cliffhangers Majeurs
 - Ghost disparait.

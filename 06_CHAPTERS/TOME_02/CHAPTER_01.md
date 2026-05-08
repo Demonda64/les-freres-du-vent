@@ -37,7 +37,7 @@ C'etait pire.
 
 On le regardait comme quelqu'un qui avait gagne une place sans comprendre le prix du siege.
 
-Mira venait parfois au garage pour le chien qu'il avait ramene des mois plus tot. Le chien boitait encore, mais il courait. Il avait appris les coins chauds du beton, les hommes a eviter, les mains qui donnent. Mira, elle, n'avait rien appris de travers. Elle entrait avec sa caisse de soins, regardait les blessures qu'on cachait mal, et ne demandait pas de grandes explications.
+Mira venait parfois au garage pour le chien noir qu'il avait ramene des mois plus tot. Le chien boitait encore, mais il courait. Il avait appris les coins chauds du beton, les hommes a eviter, les mains qui donnent. Personne ne le voyait entrer. Il etait seulement la, avant les mauvaises nouvelles ou apres. Mira, elle, n'avait rien appris de travers. Elle entrait avec sa caisse de soins, regardait les blessures qu'on cachait mal, et ne demandait pas de grandes explications.
 
 "Ton bras se rouvre", dit-elle un soir.
 

@@ -21,7 +21,7 @@ Dagger arrive avec une photo usee de Ryder. Il cherche une entree dans le club e
 Le club ne lui doit rien. Iron le teste, Ghost observe, Boomer jauge. Dagger ne peut pas dire toute la verite sur ce qu'il cherche.
 
 ## Turn
-Dagger recueille un chien blesse et l'amene a Mira, ouvrant un espace de silence et de soin hors du club.
+Dagger recueille un chien noir blesse et l'amene a Mira, ouvrant un espace de silence et de soin hors du club. La scene doit garder un doute discret: animal reel, presage, ou les deux.
 
 ## Closing State
 Dagger a un point d'ancrage dans Gasthaven, mais aussi une premiere faille: il n'est pas seulement venu pour survivre, il veut comprendre.
@@ -54,8 +54,8 @@ Dagger a un point d'ancrage dans Gasthaven, mais aussi une premiere faille: il n
 - Lieu: Gasthaven, route, clinique, garage.
 - Moment: retour au debut de la saga, ciel bas, lumiere sale.
 - Personnage principal: Dagger, jeune homme ferme, fatigue, porteur d'une photo.
-- Action visible: arriver, sauver un chien, rencontrer Mira, demander une place, dormir au garage.
-- Details realistes: photo abimee, mains sales, chien maigre, odeur d'antiseptique, outils, matelas mince.
+- Action visible: arriver, sauver un chien noir, rencontrer Mira, demander une place, dormir au garage.
+- Details realistes: photo abimee, mains sales, chien noir maigre, odeur d'antiseptique, outils, matelas mince.
 
 ## Chapter Preset
 RAW POETIC REALISM pour les scenes 1 a 3. CINEMATIC DRAMA retenu et froid pour les scenes 4 et 5.
@@ -97,7 +97,7 @@ Ryder souriait encore dessus.
 
 Pas beaucoup. Juste assez pour mentir aux morts.
 
-### Scene 2 - Decouverte du chien blesse
+### Scene 2 - Decouverte du chien noir blesse
 
 ## FRAME
 - Focalisation: troisieme personne proche, Dagger; distance intime mais pudique.
@@ -105,26 +105,26 @@ Pas beaucoup. Juste assez pour mentir aux morts.
 - Atmosphere: station abandonnee, poussiere, sang, chaleur, silence.
 - Intention profonde: reveler Dagger par un geste, pas par une explication.
 - Conflit: rester invisible ou sauver ce qui souffre.
-- Sous-texte: Dagger reconnait chez le chien une survie sans demande d'aide.
+- Sous-texte: Dagger reconnait chez le chien une survie sans demande d'aide; le chien noir reconnait en lui un Cerbere avant l'heure.
 - Preset: DOCUMENTARY INTIMATE.
 
 ## Function
 Montrer que Dagger n'est pas seulement un homme ferme: il agit quand quelque chose souffre sous ses yeux.
 
 ## Beat
-Avant d'aller au club, Dagger trouve un chien blesse pres d'une station abandonnee ou d'un fosse de route. Il hesite une seconde, puis le prend avec lui.
+Avant d'aller au club, Dagger trouve un chien noir blesse pres d'une station abandonnee ou d'un fosse de route. Il hesite une seconde, puis le prend avec lui. La station semble vide avant et apres. Pas de trace claire dans la poussiere, seulement du sang la ou il pose la main.
 
 ## Conflict
 S'il veut rester invisible, il doit continuer sa route. S'il s'arrete, il montre une faille. Il s'arrete.
 
 ## Image
-Chien maigre, flanc ouvert ou patte abimee, sang mele a la poussiere. Dagger retire sa veste ou un vieux tissu pour le porter.
+Chien noir maigre, flanc ouvert ou patte abimee, sang mele a la poussiere. Dagger retire sa veste ou un vieux tissu pour le porter. Son regard doit sembler trop calme pour un animal blesse.
 
 ## Exit
 Il cherche une clinique encore ouverte et trouve le nom de Mira Lorth.
 
 ## Draft Seed
-Le chien ne grogna pas quand Dagger approcha. C'etait pire. Il n'avait plus assez de force pour menacer qui que ce soit.
+Le chien noir ne grogna pas quand Dagger approcha. C'etait pire. Il n'avait plus assez de force pour menacer qui que ce soit. Ou peut-etre qu'il savait deja que Dagger allait venir.
 
 Dagger resta accroupi devant lui, les mains ouvertes.
 
@@ -145,7 +145,7 @@ Personne ne leur avait appris a demander de l'aide. Ni a l'un, ni a l'autre.
 Introduire Mira comme refuge moral, sans romance explicative ni sauvetage facile.
 
 ## Beat
-Dagger arrive a la clinique avec le chien. Mira comprend qu'il n'est pas du genre a raconter. Elle soigne l'animal, observe Dagger, pose peu de questions.
+Dagger arrive a la clinique avec le chien noir. Mira comprend qu'il n'est pas du genre a raconter. Elle soigne l'animal, observe Dagger, pose peu de questions. Le doute doit rester mince mais present: personne ne sait d'ou vient ce chien, ni pourquoi il n'a pas laisse de piste.
 
 ## Conflict
 Mira veut savoir assez pour sauver le chien. Dagger veut dire le moins possible. Leur premier lien nait dans ce qu'ils ne forcent pas.

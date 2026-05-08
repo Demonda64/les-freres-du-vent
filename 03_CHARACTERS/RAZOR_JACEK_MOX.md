@@ -169,7 +169,8 @@ Debut:
 Milieu:
 - dominateur
 - prend les Nouvelles Lames
-- blesse Scarlett
+- est emu par Scarlett pendant leur affrontement presque amical
+- assomme Torch apres que Torch a creve un oeil de Scarlett en traitre
 - observe Dagger et Marcus
 
 Fin:

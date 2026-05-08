@@ -13,7 +13,7 @@ Dans le Tome II, Scarlett revient incognito, Cain reclame Dagger pour solder la 
 Dans le Tome III, Dagger revient deux ans plus tard, recoit le patch presidentiel, affronte Razor, Torch, Red Mox et Grimm. Razor tue son pere, Grimm epargne Gasthaven, et Dagger, Marcus et Razor deviennent les nouveaux Cerberes d'un club qui survit sous un nouveau visage.
 
 ## Debut
-Dagger arrive a Gasthaven avec une photo de Ryder et demande a rejoindre les Freres du Vent. Il rencontre Mira apres avoir sauve un chien blesse.
+Dagger arrive a Gasthaven avec une photo de Ryder et demande a rejoindre les Freres du Vent. Il rencontre Mira apres avoir sauve un chien noir blesse, presage de mort dont l'existence doit rester incertaine.
 
 ## Milieu
 La verite de Velvet se devoile par fragments. La guerre interne detruit les anciens liens. Scarlett et le Convoi ouvrent une route hors de Gasthaven.

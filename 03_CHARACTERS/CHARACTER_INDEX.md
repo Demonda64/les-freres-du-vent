@@ -3,7 +3,10 @@
 ## CHARACTER INDEX
 Index canonique des personnages principaux, secondaires et antagonistes de la saga Les Freres du Vent.
 
-Voir aussi: `03_CHARACTERS/CASTING_BIBLE.md`.
+Voir aussi:
+- `03_CHARACTERS/CASTING_BIBLE.md`
+- `03_CHARACTERS/MBTI_PROFILES.md`
+- `03_CHARACTERS/IMAGE2_CTLT_PROMPTS.md`
 
 ## Axes Writers Room
 

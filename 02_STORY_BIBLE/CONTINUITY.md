@@ -26,6 +26,7 @@
 | La Lame | Cellule formee de Ryder, Boomer, Marcus, Queenie et Scarlett. | Tome I | Idee de Ryder. |
 | Les Nouvelles Lames | Dissidence creee par Marcus, puis antenne liee a Crimson. | Tome I-III | Devient l'ennemi interne. |
 | Le Convoi | Groupe mobile initie par Scarlett sur une idee de Ryder. | Tome II-III | Alternative au club fixe. |
+| Chien noir | Presage de mort, apparition mystique devant les Cerberes, toujours avant ou apres un drame. | Dossier Chien Noir | Le lecteur doit pouvoir douter de son existence. |
 | Copper / Trahison | Copper joue un double jeu entre Cain et Iron. | Trahisons / Tome II | Il trahit Iron et Ryder, verrouille la version policiere et permet la chute d'Iron. |
 | Torch | Torch est prospect a vie chez les Freres du Vent. | Casting / Tome II | Il ne portera jamais les couleurs du Vent, mais peut devenir president dans un autre club. |
 | Torch / Enfance | Torch grandit autour du club avec Marcus, puis plus tard avec Ryder. | Casting / Tome I | Sa blessure vient d'une appartenance vecue mais jamais officialisee. |
@@ -84,6 +85,7 @@
 | Tome II | Dagger, Mira et Scarlett rejoignent le Convoi. | T2 C17 | Exil de feu. |
 | Tome III | Dagger revient avec Mira et Angel, puis recoit le patch presidentiel. | T3 C1 | Reconstruction sous pression familiale. |
 | Tome III | Razor prend les Nouvelles Lames de Marcus et place Torch au pouvoir hors des couleurs du Vent. | T3 C3 | Marcus perd son pouvoir; Torch obtient un titre ailleurs, sans devenir frere du Vent. |
+| Tome III | Torch creve un oeil de Scarlett au couteau pendant qu'elle se bat contre Razor presque amicalement. | T3 C6 | Attaque en traitre; Razor est emu par Scarlett, assomme Torch, puis Torch fuit en declenchant un grand feu. |
 | Tome III | Razor trahit Crimson et protege Ghost. | T3 C5 | Alliance inattendue. |
 | Tome III | Razor tue Red Mox. | T3 C8 | Chute du pere fondateur. |
 | Tome III | Dagger, Marcus et Razor deviennent les nouveaux Cerberes. | T3 C10 | Nouveau visage du club. |
@@ -93,6 +95,7 @@
 - Le patch: heritage et malediction.
 - Le silence: prix de la loyaute.
 - Le feu: memoire, violence, purification impossible.
+- Le chien noir: mort en approche ou drame deja passe; il apparait devant les Cerberes et reste impossible a prouver.
 
 ## Secrets Et Trahisons
 Voir `02_STORY_BIBLE/DOSSIERS/TRAHISONS_SECRETS.md`.
@@ -107,6 +110,7 @@ Voir carte des mensonges dans `02_STORY_BIBLE/DOSSIERS/CARTE_MENSONGES.md`.
 Voir reseau des parrainages dans `02_STORY_BIBLE/DOSSIERS/PARRAINAGES_HERITAGES.md`.
 Voir structure economique Crimson dans `02_STORY_BIBLE/DOSSIERS/CRIMSON_STRUCTURE_ECONOMIE.md`.
 Voir architecture Marcus / Razor dans `02_STORY_BIBLE/DOSSIERS/MARCUS_RAZOR_HERITIERS.md`.
+Voir symbole du chien noir dans `02_STORY_BIBLE/DOSSIERS/CHIEN_NOIR.md`.
 
 Regle canonique:
 - chaque personnage cache quelque chose
@@ -124,6 +128,7 @@ Regle canonique:
 - Marcus pense que le monde se gagne sur le terrain; Razor pense que le monde se controle d'en haut
 - Copper, pas Torch, est la trahison operationnelle qui fait tomber Iron
 - Torch est prospect a vie: sa violence vient d'un statut bloque, pas d'une maitrise du systeme
+- le chien noir annonce ou suit un drame; il apparait devant les Cerberes et ne doit jamais etre totalement explique
 
 ## Questions Ouvertes
 

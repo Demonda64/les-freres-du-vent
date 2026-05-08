@@ -67,6 +67,7 @@ Ni clan, ni famille. Une route.
 - La route: lien entre les morts et les vivants.
 - Le patch: heritage, dette, malediction.
 - Le silence: loyaute ou complicite.
+- Le chien noir: presage de mort, apparition mystique devant les Cerberes, existence toujours douteuse.
 
 ## Themes Majeurs
 
@@ -256,6 +257,9 @@ Torch devient un ennemi.
 La guerre reprend.
 
 Razor prend les Nouvelles Lames de Marcus et lui vole son reve d'appartenance.
+
+Scarlett affronte Razor presque amicalement; Razor est trouble par elle, mais Torch l'attaque en traitre et lui creve un oeil au couteau.
+Razor assomme Torch, qui fuit en declenchant un feu de grande envergure.
 
 Razor trahit son propre pere.
 Dagger affronte Red Mox.

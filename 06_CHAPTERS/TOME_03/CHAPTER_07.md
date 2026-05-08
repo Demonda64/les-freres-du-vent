@@ -21,9 +21,17 @@ Razor epargne Ghost et avertit Dagger: Grimm arrive.
 
 Razor n'avait pas dormi depuis le marche.
 
-Il revoyait Scarlett tomber.
+Il revoyait Scarlett crier.
 
-Pas par culpabilite pure. Il n'etait pas assez simple pour ca. Il avait vu des hommes mourir, commande des corrections, casse des visages pour sentir enfin quelque chose de vrai sous ses mains. Mais Scarlett n'etait pas tombee comme une ennemie. Elle etait tombee en protegeant un enfant qui ne portait aucune couleur.
+Pas par culpabilite pure. Il n'etait pas assez simple pour ca. Il avait vu des hommes mourir, commande des corrections, casse des visages pour sentir enfin quelque chose de vrai sous ses mains. Mais Scarlett ne s'etait pas battue comme une ennemie. Elle l'avait regarde comme un gamin dangereux, pas comme un prince. Elle avait souri une fois, presque malgre elle, pendant leur echange de lames.
+
+Puis Torch etait arrive par derriere.
+
+Pas comme un soldat.
+
+Comme une maladie.
+
+Razor revoyait le couteau, l'oeil de Scarlett, le feu ensuite, et sa propre main qui avait abattu Torch trop tard.
 
 Et Dagger n'avait pas poursuivi Razor.
 
@@ -49,7 +57,7 @@ Puis il rit.
 
 Ses gardes ne comprirent pas.
 
-Le soir, il alla a la clinique de Mira avec deux hommes. Ghost y dormait sous morphine legere, pale, l'epaule et le flanc bandes. Dagger etait parti chercher des medicaments. Marcus surveillait South Ditch. Scarlett, entre deux fievres, respirait dans une piece voisine.
+Le soir, il alla a la clinique de Mira avec deux hommes. Ghost y dormait sous morphine legere, pale, l'epaule et le flanc bandes. Dagger etait parti chercher des medicaments. Marcus surveillait South Ditch. Scarlett, l'oeil bande, entre deux fievres, respirait dans une piece voisine.
 
 Mira ouvrit la porte avec un pistolet.
 
@@ -111,9 +119,9 @@ Razor se tourna lentement.
 
 "Calme. Si je voulais tuer Ghost, il serait deja mort."
 
-"Tu as blesse Scarlett."
+"Torch a blesse Scarlett."
 
-"Oui."
+"Je l'ai assomme trop tard."
 
 "Donne-moi une raison de ne pas te tuer."
 

@@ -45,7 +45,7 @@ Un soir, Ghost posa trois verres sur la table.
 
 Dagger, Marcus et Razor etaient la.
 
-Scarlett aussi, debout pres de la porte, deja prete a partir. Mira rangeait du materiel medical dans une caisse. Queenie attendait dehors avec le Convoi.
+Scarlett aussi, debout pres de la porte, un bandeau sombre sur l'oeil perdu, deja prete a partir. Mira rangeait du materiel medical dans une caisse. Queenie attendait dehors avec le Convoi.
 
 Ghost sortit trois vieux morceaux de cuir. Pas des patchs presidentiels. Pas des grades officiels. Des marques noires, decoupees dans des vestes anciennes.
 

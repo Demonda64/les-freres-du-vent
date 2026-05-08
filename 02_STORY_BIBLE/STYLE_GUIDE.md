@@ -16,7 +16,7 @@ Phrases courtes dans les confrontations. Paragraphes plus respirants pour la rou
 Peu explicatif. Les personnages parlent par detours, menaces, silences, phrases coupees. Les declarations doivent etre rares et memorables.
 
 ## Vocabulaire Recurrent
-route, patch, vent, feu, cendres, huile, rouille, dette, frere, silence, cage, lame, convoi.
+route, patch, vent, feu, cendres, huile, rouille, dette, frere, silence, cage, lame, convoi, chien noir.
 
 ## Interdits
 - Romantiser gratuitement la violence.
@@ -64,8 +64,15 @@ Reference superieure du projet:
 
 ### E - Environnement & Action
 - Le decor doit resister aux personnages.
-- Les objets importants doivent porter de la memoire: photo, patch, outils, moto, cle, sang, pluie.
+- Les objets importants doivent porter de la memoire: photo, patch, outils, moto, cle, sang, pluie, chien noir.
 - Les micro-gestes remplacent l'explication psychologique.
+
+## Symbole - Chien Noir
+- Le chien noir est un presage de mort.
+- Il apparait avant ou apres un drame, uniquement devant un Cerbere, un ancien Cerbere, ou un futur Cerbere.
+- Sa presence doit rester mystique et incertaine: le lecteur doit pouvoir douter de son existence.
+- Ne jamais expliquer ce qu'il est.
+- Ne jamais le traiter comme une mascotte classique.
 
 ## Presets Saga
 - `RAW POETIC REALISM`: scenes intimes, blessures, Mira, route, souvenirs.

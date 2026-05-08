@@ -170,7 +170,7 @@ Dagger resta au milieu du garage.
 
 Mira passa pres de lui.
 
-"Le chien mange."
+"Le chien noir mange."
 
 Il hocha la tete.
 

@@ -64,6 +64,13 @@ Toute action a un prix:
 - jamais tout reveler
 - toujours garder un mystere actif
 
+### Regle 5 - Chien Noir
+- le chien noir est un presage de mort
+- il apparait avant ou apres un drame
+- il apparait uniquement devant un Cerbere, un ancien Cerbere, ou un futur Cerbere
+- la rencontre doit rester mystique
+- le lecteur doit pouvoir douter de son existence
+
 ## 4. Courbe De Tension Globale
 
 | Tome | Courbe |

@@ -121,7 +121,7 @@ Mira regarda Dagger.
 
 "Tu ne decides pas ca pour moi."
 
-Scarlett les tira vers la sortie arriere. Le chien de Dagger, blesse autrefois, surgit de sous une table et les suivit en boitant moins qu'avant.
+Scarlett les tira vers la sortie arriere. Le chien noir de Dagger, blesse autrefois, surgit de sous une table et les suivit en boitant moins qu'avant. Dagger n'aurait pas su dire depuis quand il etait la.
 
 Dans la rue, Queenie etait pres du premier camion.
 
@@ -145,7 +145,7 @@ Le clubhouse brulait par endroits. Ghost etait encore vivant dedans. Marcus quel
 
 Dagger monta.
 
-Mira s'assit a cote de lui. Le chien posa sa tete sur ses chaussures.
+Mira s'assit a cote de lui. Le chien noir posa sa tete sur ses chaussures. Quand Dagger baissa les yeux une seconde plus tard, il n'etait deja plus certain de l'avoir vu bouger.
 
 Le Convoi demarra.
 

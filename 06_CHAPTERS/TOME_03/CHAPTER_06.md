@@ -1,27 +1,27 @@
 # CHAPTER 06 - Le prix du sang
 
 ## Status
-Brouillon v1
+Brouillon v2
 
 ## Purpose
-Faire monter la guerre directe et blesser Scarlett par Razor.
+Faire monter la guerre directe, faire basculer la perception de Razor et mutiler Scarlett par la trahison de Torch.
 
 ## POV
 Dagger
 
 ## Conflict
-Dagger tente une guerre propre. Razor lui montre que le systeme ne respecte pas les frontieres humaines.
+Dagger tente une guerre propre. Torch transforme une confrontation presque lisible en trahison intime et en incendie.
 
 ## Cliffhanger
-Scarlett est blessee par Razor, et Dagger comprend que le Convoi n'est plus hors du conflit.
+Torch creve un oeil de Scarlett, Razor l'assomme, puis Torch fuit en declenchant un feu de grande envergure.
 
 ---
 
-# DRAFT V1 - PROSE
+# DRAFT V2 - PROSE
 
 Marcus tint parole.
 
-En trois nuits, ses hommes couperent deux relais de Razor. Pas avec des explosions. Avec des absences. Un chauffeur qui ne vint pas. Un garage qui refusa soudain de reparer les motos Crimson. Un cousin qui fit tourner une cargaison vers une route trop lente. Le terrain ne criait pas. Il deplaçait les pierres sous les pieds du systeme.
+En trois nuits, ses hommes couperent deux relais de Razor. Pas avec des explosions. Avec des absences. Un chauffeur qui ne vint pas. Un garage qui refusa soudain de reparer les motos Crimson. Un cousin qui fit tourner une cargaison vers une route trop lente. Le terrain ne criait pas. Il deplacait les pierres sous les pieds du systeme.
 
 Razor descendit lui-meme le quatrieme soir.
 
@@ -55,47 +55,69 @@ Razor rit franchement.
 
 "Peut-etre. Mais il respire encore."
 
-Une premiere detonation coupa le marche.
+Une premiere bouteille eclata pres d'un stand.
 
-Pas un tir de Razor. Un tir venu d'un toit. Puis un second. Panique immediate. Les stands tomberent, les enfants hurlerent, les hommes sortirent des armes. Dagger comprit: quelqu'un voulait transformer la rencontre en massacre.
+Pas encore un tir. Pas encore la guerre totale. Un avertissement mal lance, trop nerveux, qui fit reculer les civils et avancer les hommes armes.
 
-Torch.
+Scarlett bougea avant Dagger.
 
-Il etait sur le toit d'une quincaillerie, arme longue, visage defait, cuir hybride battant sous le vent chaud.
+Elle traversa la foule avec cette facon de ne jamais courir vraiment, comme si le danger devait se regler a sa hauteur. Razor la vit venir et sourit.
 
-"Tout le monde me regarde maintenant !" cria-t-il.
+"C'est toi, le Convoi ?"
 
-Razor leva les yeux, surpris puis amuse.
+"C'est moi qui t'empeche de faire une connerie plus grosse que ton pere."
 
-"Il est moins docile que prevu."
+Razor rit.
 
-Dagger courut vers le batiment. Marcus couvrit la rue. Scarlett traversa le marche pour sortir un enfant coince sous une table renversee.
+Il sortit son couteau.
 
-Razor la vit.
+Scarlett sortit le sien.
 
-Pas comme une cible au debut.
+Pendant quelques secondes, ce ne fut presque pas une attaque. Plutot une danse de deux personnes qui savaient exactement ou placer leurs pieds. Razor frappait fort, trop large parfois, avec le plaisir brutal de quelqu'un qui decouvrait un adversaire reel. Scarlett esquivait court, coupait les angles, touchait sans ouvrir.
 
-Comme un probleme qui bougeait trop bien.
+Il y avait dans le regard de Razor quelque chose que Dagger n'avait pas encore vu chez lui.
 
-Il tira pour la stopper.
+Du respect.
 
-La balle toucha Scarlett a l'abdomen.
+Peut-etre meme de l'emotion.
 
-Elle tomba sans cri.
+"Tu aurais du etre de notre cote", dit Razor.
 
-Dagger entendit le son avant de voir. Le marche disparut. Il ne resta que Scarlett au sol, sa main rouge sur sa chemise, et Razor qui semblait lui-meme surpris par la consequence exacte de son geste.
+"J'ai deja donne aux familles qui mangent leurs enfants."
 
-Marcus hurla quelque chose.
+Razor baissa legerement son couteau.
 
-Dagger tira vers Razor. Pas pour tuer. Pour le repousser. Razor se jeta derriere un stand, rit encore, mais cette fois le rire avait une fêlure.
+Ce fut la faille.
 
-Mira arriva en courant.
+Torch surgit derriere Scarlett.
 
-"Pousse-toi !"
+Pas depuis le toit. Pas en chef. En ombre. En homme qui ne supportait pas qu'on regarde quelqu'un d'autre.
 
-Elle se pencha sur Scarlett, mains deja pleines de sang.
+La lame entra par le cote du visage.
 
-Scarlett accrocha le poignet de Dagger.
+Scarlett cria enfin.
+
+Un cri sec, coupe net, qui vida le marche de son air. Elle porta les mains a son oeil. Le sang passa entre ses doigts.
+
+Razor resta une fraction de seconde immobile.
+
+Comme si Torch venait de casser une regle qu'il n'avait pas su formuler.
+
+Puis Razor frappa.
+
+Un coup court, massif, a la tempe. Torch tomba contre un etal de bidons, presque inconscient, la bouche ouverte sur un rire qui n'avait plus de son.
+
+"Sale petit feu", murmura Razor.
+
+Dagger courut vers Scarlett.
+
+Mira arriva en meme temps, deja blanche, deja precise.
+
+"Ne regarde pas", dit-elle.
+
+"Je te vois plus assez pour obeir", souffla Scarlett.
+
+Ses doigts serraient le poignet de Dagger. Une force impossible, meme a genoux.
 
 "Ne..."
 
@@ -107,14 +129,30 @@ Elle ne dit pas qui.
 
 Elle n'en avait pas besoin.
 
-Sur le toit, Torch s'enfuit quand Marcus atteignit l'escalier. Razor disparut dans la foule avec deux hommes sortis de nulle part.
+Derriere eux, Torch bougea.
+
+Personne ne le vit assez vite.
+
+Il tira un briquet de sa poche, le meme petit morceau de metal qu'il faisait claquer depuis des annees quand personne ne l'ecoutait. Il le jeta dans les bidons ouverts.
+
+Le feu prit d'un coup.
+
+Pas une flamme de menace. Un mur.
+
+Les stands s'embraserent, les baches fondirent, les motos tomberent dans le chaos. Torch disparut a travers la fumee, titubant, une main sur la tete, riant comme un homme qui avait enfin trouve une lumiere assez grande pour le cacher.
+
+Razor aurait pu le poursuivre.
+
+Il ne le fit pas.
+
+Il regardait Scarlett.
 
 Le marche etait detruit.
 
 Le Convoi n'etait plus exterieur.
 
-Dagger regarda le sang de Scarlett sur ses mains.
+Dagger regarda le sang de Scarlett sur ses mains, puis le feu que Torch avait laisse derriere lui.
 
-La guerre venait de prendre une femme qui n'appartenait a personne.
+La guerre venait de prendre un oeil a une femme qui n'appartenait a personne.
 
-Et c'etait peut-etre ce qui la rendait impardonnable.
+Et Razor venait de comprendre que certains gestes ne servaient aucun systeme.
