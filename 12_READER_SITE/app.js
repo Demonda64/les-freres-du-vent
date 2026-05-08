@@ -27,6 +27,18 @@ const chapters = [
   { tome: "Tome II", id: 11, file: "../06_CHAPTERS/TOME_02/CHAPTER_11.md" },
   { tome: "Tome II", id: 12, file: "../06_CHAPTERS/TOME_02/CHAPTER_12.md" },
   { tome: "Tome II", id: 13, file: "../06_CHAPTERS/TOME_02/CHAPTER_13.md" },
+  { tome: "Tome III", id: 1, file: "../06_CHAPTERS/TOME_03/CHAPTER_01.md" },
+  { tome: "Tome III", id: 2, file: "../06_CHAPTERS/TOME_03/CHAPTER_02.md" },
+  { tome: "Tome III", id: 3, file: "../06_CHAPTERS/TOME_03/CHAPTER_03.md" },
+  { tome: "Tome III", id: 4, file: "../06_CHAPTERS/TOME_03/CHAPTER_04.md" },
+  { tome: "Tome III", id: 5, file: "../06_CHAPTERS/TOME_03/CHAPTER_05.md" },
+  { tome: "Tome III", id: 6, file: "../06_CHAPTERS/TOME_03/CHAPTER_06.md" },
+  { tome: "Tome III", id: 7, file: "../06_CHAPTERS/TOME_03/CHAPTER_07.md" },
+  { tome: "Tome III", id: 8, file: "../06_CHAPTERS/TOME_03/CHAPTER_08.md" },
+  { tome: "Tome III", id: 9, file: "../06_CHAPTERS/TOME_03/CHAPTER_09.md" },
+  { tome: "Tome III", id: 10, file: "../06_CHAPTERS/TOME_03/CHAPTER_10.md" },
+  { tome: "Tome III", id: 11, file: "../06_CHAPTERS/TOME_03/CHAPTER_11.md" },
+  { tome: "Tome III", id: 12, file: "../06_CHAPTERS/TOME_03/CHAPTER_12.md" },
 ];
 
 const state = {

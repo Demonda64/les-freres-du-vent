@@ -1,13 +1,13 @@
 # NEXT ACTION
 
 ## A Faire Maintenant
-Lire le Tome II dans le lecteur local et annoter les passages a retravailler.
+Lire le Tome III dans le lecteur local et annoter les passages a retravailler.
 
 ## Fichier A Ouvrir
-`06_CHAPTERS/TOME_02/CHAPTER_01.md`
+`06_CHAPTERS/TOME_03/CHAPTER_01.md`
 
 ## Objectif En 30 Minutes
-Lancer `12_READER_SITE/start_reader.ps1`, lire les chapitres du Tome II dans l'interface, puis noter les premiers ajustements de rythme et de transition.
+Lancer `12_READER_SITE/start_reader.ps1`, lire les chapitres du Tome III dans l'interface, puis noter les premiers ajustements de rythme et de transition.
 
 ## Ne Pas Oublier
 Le chapitre 2 doit installer les Petits Cerberes comme sous-intrigue majeure: Dagger / Marcus / Torch.
@@ -33,6 +33,7 @@ Chapitre 2 brouillon v1: 3 scenes en prose, environ 5000 mots. Scene 1: garage e
 Tome I brouillon v1 complet: Chapitre 1 valide; Chapitre 2 long brouillon; Chapitres 3-15 rediges en prose v1. Prochaine passe: densifier les chapitres 3-15, harmoniser la longueur et verifier que chaque fin cree question, danger ou revelation.
 Lecteur local cree dans `12_READER_SITE`: navigation par chapitre, recherche, vues Prose/Fiche complete/Notes, taille de police, mode clair/sombre.
 Tome II brouillon v1 complet: 13 chapitres rediges. Acte I: braises et dette. Acte II: enquete, Copper, chute d'Iron. Acte III: confession, mort de Boomer, depart vers le Convoi.
+Tome III brouillon v1 complet: 12 chapitres rediges. Acte I: retour, patch, Razor, Ghost blesse, alliance Marcus. Acte II: guerre, Scarlett blessee, choix de Razor, Grimm, siege. Acte III: Red tue par Razor, jugement de Grimm, nouveaux Cerberes.
 
 ## A Noter Apres La Session
 - Tout nouveau detail sur Gasthaven dans `04_WORLD/WORLD_NOTES.md`
