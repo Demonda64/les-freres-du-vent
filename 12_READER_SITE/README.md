@@ -30,4 +30,6 @@ http://localhost:8765/12_READER_SITE/
 - Taille de police reglable.
 - Mode clair / sombre.
 
-Le site charge les fichiers depuis `../06_CHAPTERS/TOME_01`, donc les changements dans les chapitres sont visibles apres rechargement de la page.
+Le site charge maintenant le Tome I depuis `../06_CHAPTERS/TOME_01_GOTHIC_ROAD_NOIR`, puis les Tomes II et III depuis leurs dossiers habituels.
+
+Les changements dans les chapitres sont visibles apres rechargement de la page.

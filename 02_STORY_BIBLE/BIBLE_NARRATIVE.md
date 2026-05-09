@@ -6,6 +6,9 @@ Drame criminel contemporain.
 Saga biker.
 Tragedie fraternelle.
 
+Version litteraire Gothic Road Noir:
+- `05_OUTLINE/SAGA_GOTHIC_ROAD_NOIR.md`
+
 ## Format
 
 Saga principale en 3 tomes.
@@ -292,6 +295,8 @@ Le club survit, transforme.
 - Scarlett / Ryder: tutelle quasi maternelle, perte et silence.
 - Carte generationnelle: Zeke fuit, Red construit; Ryder revient et meurt; Dagger revient et choisit.
 - Marcus / Razor / Dagger: trois heritiers. Marcus appartient au monde, Razor possede le monde, Dagger peut le changer.
+- Ellipses temporelles: outil canonique de rythme. Elles servent la paranoia biker, la maturation des dettes, les manipulations lentes et les consequences hors champ.
+- Gothic Road Noir: preset stylistique original qui mele tension psychologique, merveilleux dangereux, atmosphere gothique routiere et symboles recurrents, sans magie explicative.
 
 ## Extensions Prevues
 

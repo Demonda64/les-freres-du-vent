@@ -1,5 +1,7 @@
 # TOME III - NI DIEU NI MAITRE - VERSION WRITERS ROOM
 
+Voir aussi: `02_STORY_BIBLE/DOSSIERS/ELLIPSES_TEMPORELLES.md`
+
 ## ADN Du Tome
 
 ### Theme Central
@@ -20,6 +22,14 @@ ACTE 1 -> retour / reconstruction
 ACTE 2 -> guerre / alliances
 ACTE 3 -> confrontation / heritage
 ```
+
+## Ellipses A Utiliser
+- Deux ans entre Tome II et Tome III: Dagger revient avec Mira et Angel, presque deux ans.
+- Apres le retour: semaines de reconstruction lente, parce que le patch ne suffit pas.
+- Apres l'arrivee de Razor: prise de controle progressive avant l'humiliation de Marcus.
+- Apres la blessure de Scarlett: convalescence et trace permanente de Torch.
+- Avant l'affrontement final: ellipse de siege, Gasthaven se vide et les routes se ferment.
+- Apres la mort de Red: retombee, victoire comme dette, pas liberation.
 
 ## Structure En 3 Actes
 

@@ -1,5 +1,7 @@
 # TOME II - CEUX QUI RESTENT BRULENT - VERSION WRITERS ROOM
 
+Voir aussi: `02_STORY_BIBLE/DOSSIERS/ELLIPSES_TEMPORELLES.md`
+
 ## ADN Du Tome
 
 ### Theme Central
@@ -20,6 +22,13 @@ ACTE 1 -> reconstruction fragile
 ACTE 2 -> verite devoilee
 ACTE 3 -> destruction totale
 ```
+
+## Ellipses A Utiliser
+- Ouverture apres plusieurs mois: la paix est une fatigue, pas une guerison.
+- Scarlett manipule par accumulation: indices, absences, demi-verites.
+- L'enquete Velvet doit durer plusieurs jours pour user Dagger.
+- Apres Iron / Copper / Kellen, couper brutalement vers les consequences: fragments d'Iron, clubhouse muet, ville traumatisee.
+- Boomer doit disparaitre avant son retour, pour que sa confession ressemble a une decision de mourir.
 
 ## Structure En 3 Actes
 

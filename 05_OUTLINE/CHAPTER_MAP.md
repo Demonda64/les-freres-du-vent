@@ -6,6 +6,12 @@ Carte generale des trois tomes de la saga. Les cartes detaillees sont rangees da
 ## Tome I
 Voir `05_OUTLINE/TOMES/TOME_01.md`.
 
+Plan de reecriture Gothic Road Noir:
+`05_OUTLINE/TOMES/TOME_01_GOTHIC_ROAD_NOIR_REWRITE_PLAN.md`.
+
+Piste de travail 19 chapitres:
+`06_CHAPTERS/TOME_01_GOTHIC_ROAD_NOIR/README.md`.
+
 ## Tome II
 Voir `05_OUTLINE/TOMES/TOME_02.md`.
 

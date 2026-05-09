@@ -1,6 +1,8 @@
 # TOME I - LES FRERES DU VENT - VERSION WRITERS ROOM
 
-Voir aussi: `05_OUTLINE/TOMES/TOME_01_SUBPLOTS_MATRIX.md`
+Voir aussi:
+- `05_OUTLINE/TOMES/TOME_01_SUBPLOTS_MATRIX.md`
+- `02_STORY_BIBLE/DOSSIERS/ELLIPSES_TEMPORELLES.md`
 
 ## ADN Du Tome
 
@@ -48,6 +50,8 @@ Priorites d'expansion:
 
 ## Canon A Respecter
 - Dagger decouvre en meme temps que le lecteur.
+- Entre le chapitre 1 et le chapitre 2, il s'est ecoule dix jours: le club observe Dagger, le teste et laisse volontairement l'incertitude s'installer avant de l'associer aux Petits Cerberes.
+- Le monde biker est paranoiaque par survie: les ellipses temporelles doivent montrer que la confiance prend du temps, qu'elle se negocie par gestes et qu'elle peut etre retiree.
 - Marcus est le terrain vivant: il connait club, rues, reseaux.
 - Torch est prospect a vie chez les Freres du Vent: Brick a demande qu'on ne lui donne jamais les couleurs pour le proteger, mais Torch le vit comme un non-choix permanent. Il est pyromane et victime d'un syndrome de persecution.
 - Copper est deja le signe du double jeu police / club / Crimson.
@@ -62,7 +66,7 @@ Objectif: installer le monde, les tensions et les mysteres.
 | Episode | Titre | Hook | Tension | Rupture / Cliffhanger |
 | --- | --- | --- | --- | --- |
 | 01 | Le vent ne parle pas | Silas arrive avec la photo et zero piste claire. | Il tombe par hasard sur les Cerberes dans un bar sans savoir qui ils sont. | Il sauve Ghost d'un coup de couteau; Ghost le surnomme Dagger; Silas negocie une nuit au garage. |
-| 02 | Les Petits Cerberes | Dagger est associe a Marcus et Torch. | Marcus occupe le terrain; Torch reste prospect a vie. | Le trio nait deja fissure. |
+| 02 | Les Petits Cerberes | Dix jours apres la premiere nuit au garage, Dagger est associe a Marcus et Torch. | Le club l'a observe sans lui donner de reponse claire; Marcus occupe le terrain; Torch reste prospect a vie. | Le trio nait deja fissure. |
 | 03 | Silas, pas Dagger | Passe civil revient avec Stephanie. | Identite refusee; Torch reconnait en elle quelqu'un laisse dehors. | Dagger choisit le masque Dagger, tandis qu'une amitie Stephanie/Torch commence. |
 | 04 | L'autre Lame | Marcus mentionne La Lame. | Sa version est brillante mais incomplete. | Dagger comprend que l'histoire de Ryder a ete retouchee. |
 | 05 | Le pacte | Copper menace Iron. | Dette invisible, police trop informee. | Dagger comprend que la police est dans le systeme. |

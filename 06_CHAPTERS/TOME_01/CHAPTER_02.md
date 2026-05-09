@@ -23,10 +23,12 @@ Dagger / Silas Merel
 - Premier contact avec Copper et Kellen
 
 ## Time
-Peu apres l'integration de Dagger comme prospect.
+Dix jours apres la premiere nuit negociee au garage.
+
+Ces dix jours ne sont pas vides: dans un monde biker paranoiaque, personne n'integre un inconnu parce qu'il a rendu un service dans un bar. Dagger a ete observe, teste par petites taches, laisse dans l'incertitude, nourri juste assez pour rester et tenu assez loin pour comprendre qu'il n'a encore rien gagne.
 
 ## Opening State
-Dagger est tolere dans le garage, mais il n'a pas encore de place. Marcus et Torch incarnent deux blessures de la nouvelle generation: Marcus croit etre ne pour le club, Torch sait qu'on le laisse toujours au bord.
+Dagger est tolere dans le garage depuis dix jours, mais il n'a pas encore de place. Chaque homme l'a regarde comme une possible erreur. Marcus et Torch incarnent deux blessures de la nouvelle generation: Marcus croit etre ne pour le club, Torch sait qu'on le laisse toujours au bord.
 
 ## Conflict
 Dagger doit apprendre les codes du club sans se laisser avaler. Marcus occupe naturellement l'espace parce qu'il connait le club, les rues et les reseaux. Torch observe Dagger comme une anomalie qui menace le peu de rang qu'il croit encore pouvoir gagner.
@@ -72,7 +74,7 @@ Dagger comprend qu'il n'entre pas seulement dans un club: il entre dans une comp
 
 ### E - Environnement & Action
 - Lieu: garage, rue, bar, zone de patrouille.
-- Moment: jour de chaleur lourde, debut de routine.
+- Moment: dixieme jour apres l'arrivee de Dagger, chaleur lourde, debut d'une routine encore suspecte.
 - Personnage principal: Dagger, nouveau prospect, prudent, ferme.
 - Action visible: rencontrer Marcus et Torch, rouler avec eux, croiser Copper et Kellen.
 - Details realistes: vestes posees, outils, cles, moteurs, verre sale, regard de flic dans un retroviseur.
@@ -184,7 +186,7 @@ Dagger comprend que les Freres ne sont pas seulement surveilles: ils sont lies a
 
 ## Scene 1 - La releve
 
-Le matin avait laisse une peau grise sur les vitres du garage.
+Le dixieme matin avait laisse une peau grise sur les vitres du garage.
 
 Dagger s'etait leve avant les autres. Pas par discipline. Par habitude. Le sommeil, ici, ne descendait jamais jusqu'au fond. Il restait accroche aux bruits de tole, aux moteurs qui refroidissaient dans l'obscurite, aux pas qui passaient derriere les portes sans jamais s'arreter.
 
@@ -195,6 +197,20 @@ Dans sa poche interieure, la photo de Ryder avait repris sa place.
 Il ne la sortit pas.
 
 Pas encore.
+
+Les neuf jours precedents n'avaient pas eu de forme. Une premiere nuit qui aurait du s'arreter au matin. Puis une autre, accordee sans phrase claire. Des pieces a porter. Des sols a nettoyer. Une moto a tenir droite pendant que Boomer reglait un frein. Des courses trop simples pour etre des missions et trop surveillees pour etre des corvees.
+
+Personne ne lui avait dit oui.
+
+Personne ne lui avait dit non.
+
+Dans ce monde-la, c'etait une decision.
+
+Les Freres du Vent vivaient comme des hommes qui attendaient toujours qu'une porte s'ouvre sur une arme. Ils ne tournaient jamais le dos au meme moment. Ils parlaient bas quand le moteur d'une voiture ralentissait dehors. Ils regardaient les mains avant les visages. Meme les blagues avaient des angles morts.
+
+Dagger avait appris vite: ici, la confiance ne montait pas. Elle gouttait.
+
+Et chaque goutte pouvait etre retiree.
 
 Le garage se reveillait par morceaux. Un robinet cracha dans l'arriere-salle. Une cle tomba quelque part. Quelqu'un toussa avec la voix d'un homme qui avait trop fume et pas assez dormi. Dehors, un camion passa lentement sur l'avenue, faisant vibrer les plaques de metal contre le mur.
 

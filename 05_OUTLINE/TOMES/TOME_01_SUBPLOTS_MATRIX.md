@@ -17,6 +17,7 @@ Chaque chapitre doit contenir:
 - Chaque chapitre doit fermer au moins une micro-tension, tout en ouvrant une tension plus longue.
 - Si une intrigue secondaire modifie une relation ou une croyance importante, elle peut devenir un chapitre autonome.
 - La structure 15 chapitres est une colonne vertebrale, pas une cage.
+- Les ellipses temporelles sont permises quand elles servent la paranoia du monde biker, la surveillance ou la maturation d'une dette. Exemple canon: dix jours passent entre le chapitre 1 et le chapitre 2.
 
 ## Echelle De Resolution
 
@@ -78,7 +79,7 @@ La version 15 chapitres reste lisible. La version etendue recommandee est 18 cha
 | Version 15 | Version Etendue | Fonction |
 | --- | --- | --- |
 | 01 - Le vent ne parle pas | 01 - Le vent ne parle pas | Arrivee, chien noir, Mira, bar, Ghost, surnom Dagger. |
-| 02 - Les Petits Cerberes | 02 - Les Petits Cerberes | Trio Dagger / Marcus / Torch. |
+| 02 - Les Petits Cerberes | 02 - Les Petits Cerberes | Dix jours d'observation puis trio Dagger / Marcus / Torch. |
 | 03 - Silas, pas Dagger | 03 - Ceux qu'on laisse dehors | Amitie Stephanie / Torch, statut de prospect a vie, miroir du rejet. |
 | 03 - Silas, pas Dagger | 04 - Silas, pas Dagger | Stephanie confronte Silas; Dagger coupe avec l'ancienne vie. |
 | 04 - L'autre Lame | 05 - L'autre Lame | Marcus raconte La Lame avec une version biaisee. |
@@ -135,9 +136,12 @@ Pourquoi le hasard a-t-il mene Silas exactement vers les Cerberes ?
 ## CHAPITRE 02 - Les Petits Cerberes
 
 ### Intrigue Principale - Dagger
-Dagger est associe a Marcus et Torch. Il decouvre une hierarchie instable ou personne n'a la meme legitimite.
+Dix jours apres sa premiere nuit au garage, Dagger est associe a Marcus et Torch. Il decouvre une hierarchie instable ou personne n'a la meme legitimite.
 
 Resolution: ARC - naissance du trio et de sa fracture interne.
+
+### Ellipse Avant Chapitre
+Les dix jours precedents doivent rester perceptibles: petites corvees, courses surveillees, repas donnes sans invitation claire, hommes qui changent de sujet quand Dagger approche. Le club n'a pas "oublie" de l'integrer; il l'a tenu dans l'incertitude parce que la paranoia est une methode de survie.
 
 ### Intrigue Secondaire - Marcus
 Marcus prend naturellement le terrain. Il parle aux membres, aux rues, aux reseaux. Il ne voit pas encore Dagger comme un rival, mais comme une anomalie.

@@ -21,6 +21,16 @@ Peut-on reconstruire sans repeter les erreurs du passe ?
 - Acte II: Bruler
 - Acte III: Heriter
 
+## Ellipses
+Voir aussi: `02_STORY_BIBLE/DOSSIERS/ELLIPSES_TEMPORELLES.md`
+
+- Entre Tome II et Tome III: 2 ans. Dagger et Mira reviennent avec Angel, presque deux ans; Dagger revient comme pere, pas seulement comme heritier.
+- Apres le retour de Dagger: semaines de reconstruction lente. Le patch ne suffit pas a refaire un club.
+- Apres l'arrivee de Razor: ellipse de prise de controle. Il rachete des dettes, place ses hommes, teste le terrain, puis humilie Marcus.
+- Apres la blessure de Scarlett: convalescence. La perte de l'oeil devient une trace permanente de la trahison de Torch.
+- Avant l'affrontement final: ellipse de siege. Gasthaven se vide, les routes se ferment, les allies choisissent leur camp.
+- Apres la mort de Red: retombee. La victoire doit ressembler a une dette, pas a une liberation.
+
 ## Resume
 Dagger revient a Gasthaven dans un monde deja perdu avec Mira et leur fils Angel, presque deux ans. Le club est vide, Ghost lui remet le patch, et la reconstruction commence sur des ruines. Il herite aussi d'un territoire convoite: meme affaiblis, les Freres controlent une route qui vaut trop cher. Razor arrive comme bras brutal de Crimson, prend les Nouvelles Lames de Marcus, l'humilie et place Torch au pouvoir. Ce pouvoir est possible parce qu'il vient d'un autre club: Torch ne portera jamais les couleurs du Vent. Ce n'est pas seulement une prise de controle: c'est le vol du reve de Marcus et la fausse reparation de Torch. Torch agit par haine, Ghost est blesse, puis Dagger et Marcus sont forces de cooperer. La guerre transforme les ennemis: Scarlett et Razor s'affrontent presque amicalement, Razor est touche par elle, puis Torch l'attaque en traitre et lui creve un oeil au couteau. Razor assomme Torch, mais Torch fuit en declenchant un feu de grande envergure. Razor observe Dagger, Marcus et Scarlett, puis trahit Crimson. Grimm arrive comme veritable danger. Gasthaven est assiegee, Torch echoue et fuit. Dans l'affrontement final, Red Mox ne veut pas seulement detruire Dagger: il veut verifier si Silas peut devenir le nouveau Zeke. Dagger hesite, puis Razor tue son pere. Grimm epargne Gasthaven sous condition. Ghost disparait, Scarlett repart, et Dagger, Marcus et Razor deviennent un nouvel equilibre.
 

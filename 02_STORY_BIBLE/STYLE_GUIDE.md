@@ -9,6 +9,53 @@ Passe narratif ou present romanesque a stabiliser avant redaction finale. Le ton
 ## Ton
 Sombre, contemporain, mineral, tendu. La prose doit sentir la rouille, l'huile, la pluie, l'asphalte, le cuir use et les silences qui durent trop longtemps.
 
+## Direction Gothique Psychologique
+La saga peut adopter un style hybride original: tension psychologique, merveilleux dangereux, atmosphere gothique poetique.
+
+Ce n'est pas une imitation d'auteurs precis. C'est une direction de voix propre aux Freres du Vent.
+
+### Effet Recherche
+- Donner l'impression d'un conte interdit retrouve dans une bibliotheque abandonnee, mais transplante dans Gasthaven: garage, route, bar, clinique, stations mortes.
+- Faire osciller le lecteur entre emerveillement et terreur.
+- Traiter la "magie" comme une presence ancienne, douteuse, presque jamais confirmee.
+- Rendre l'horreur credible par les details du quotidien: odeur d'huile froide, cafe brule, linge humide, factures pliees, moteur qui claque, pluie sur le beton.
+- Garder les personnages psychologiquement complexes: ils ne sont pas hantés par des monstres visibles, mais par leurs peurs, leurs souvenirs, leurs dettes et leurs silences.
+
+### Symboles Reccurrents
+- chien noir: presage de mort, doute sur son existence;
+- corbeaux: temoins des routes, des parkings, des terrains vagues;
+- pluie: memoire qui revient, faute qui ne lave rien;
+- miroirs: identite fracturee, Silas / Dagger, Zeke / Mox;
+- chandelles ou lumieres faibles: survivance, veille, rite intime;
+- poussiere: temps mort, dossiers oublies, routes abandonnees;
+- voix dans les murs: souvenirs, rumeurs de club, noms jamais prononces;
+- metal rouille: heritage corrompu;
+- vieux livres ou carnets: secrets interdits, archives de Velvet, pactes anciens.
+
+### Texture Sensorielle
+Priorite aux odeurs et aux matieres:
+- vieux papier, cuir mouille, cire fondue, bois humide, essence froide;
+- metal rouille, poussiere de route, pluie froide sur pierre ou beton;
+- lumiere sale, neons mourants, vitres opaques, reflets dans les flaques.
+
+### Rythme De Phrase
+- Phrases courtes dans la menace immediate.
+- Phrases plus longues, presque hypnotiques, quand le lieu semble vivant ou quand un personnage est hante par une memoire.
+- Dialogues naturels, jamais decoratifs.
+- La musicalite doit venir de la repetition de symboles, pas d'une prose surchargee.
+
+### Magie Et Mystere
+- La magie ne doit jamais devenir un systeme explicatif.
+- Elle peut apparaitre comme superstition, presage, coincidence impossible, memoire d'un lieu, voix mal attribuee, reflet qui trouble.
+- Le lecteur doit toujours pouvoir douter: surnaturel reel, trauma, paranoia, hasard ou langage du monde ?
+- Le chien noir est le modele de cette approche.
+
+### Limites
+- Ne pas remplacer le drame criminel par de la fantasy ouverte.
+- Ne pas donner de pouvoirs explicites aux personnages.
+- Ne pas expliquer les symboles.
+- Ne pas rendre le merveilleux rassurant: il doit fasciner et menacer.
+
 ## Rythme
 Phrases courtes dans les confrontations. Paragraphes plus respirants pour la route, les souvenirs et les confessions. Les revelations doivent arriver par fragments.
 
@@ -79,6 +126,7 @@ Reference superieure du projet:
 - `CINEMATIC DRAMA`: missions, confrontations, guerre interne.
 - `DOCUMENTARY INTIMATE`: garage, clinique, routines, vie de Gasthaven.
 - `DARK LITERARY`: Velvet, Ghost, culpabilite, revelations lourdes.
+- `GOTHIC ROAD NOIR`: conte interdit, lieux vivants, presages, pluie, corbeaux, miroirs, archives, chien noir, peur intime et merveilleux dangereux.
 
 ## Regle Finale Writers Room
 Si une scene ne fait pas mal, elle ne sert a rien.

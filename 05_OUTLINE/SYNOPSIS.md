@@ -1,5 +1,8 @@
 # SYNOPSIS
 
+Version litteraire Gothic Road Noir:
+- `05_OUTLINE/SAGA_GOTHIC_ROAD_NOIR.md`
+
 ## Synopsis Court
 Un jeune homme revient a Gasthaven avec la photo de son frere disparu et rejoint les Freres du Vent pour comprendre ce qui l'a tue. Sa quete revele l'operation Velvet, une dette de sang envers Crimson Cross, et une guerre fondatrice nee quand Zeke Kane a refuse l'expansion de Red Mox, donne le club a Iron, puis fui Gasthaven pour proteger ses enfants.
 

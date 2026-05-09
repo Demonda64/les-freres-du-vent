@@ -6,6 +6,8 @@ Reecriture canonique apres corrections Copper / Torch / Marcus.
 Voir aussi:
 - `05_OUTLINE/TOMES/TOME_01_WRITERS_ROOM.md`
 - `05_OUTLINE/TOMES/TOME_01_SUBPLOTS_MATRIX.md`
+- `05_OUTLINE/TOMES/TOME_01_GOTHIC_ROAD_NOIR_REWRITE_PLAN.md`
+- `02_STORY_BIBLE/DOSSIERS/ELLIPSES_TEMPORELLES.md`
 
 ## Duree
 1 an.
@@ -30,6 +32,7 @@ La guerre n'est que la consequence.
 
 ## Regles Canon Tome I
 - Dagger sait moins que les autres.
+- Les ellipses temporelles sont autorisees et utiles: entre le chapitre 1 et le chapitre 2, dix jours passent. Le monde biker est paranoiaque; personne ne donne une place a un inconnu sans observation, tests et silence.
 - Ryder reste une presence invisible.
 - Marcus appartient au terrain: club, rues, reseaux.
 - Torch est prospect a vie chez les Freres du Vent: Brick a demande qu'on ne lui donne jamais les couleurs pour le proteger, mais Torch le vit comme un rejet. Il est pyromane, victime d'un syndrome de persecution, et s'accroche aux rares liens humains qui ne le jugent pas.
@@ -53,12 +56,26 @@ Elle peut etre etendue a 18 ou 19 chapitres si les intrigues secondaires ont bes
 
 Voir la version detaillee dans `05_OUTLINE/TOMES/TOME_01_SUBPLOTS_MATRIX.md`.
 
+La suite logique de reecriture est la version 19 chapitres en `GOTHIC ROAD NOIR`, documentee dans `05_OUTLINE/TOMES/TOME_01_GOTHIC_ROAD_NOIR_REWRITE_PLAN.md`.
+
+La piste de travail des chapitres est creee dans `06_CHAPTERS/TOME_01_GOTHIC_ROAD_NOIR`.
+L'ancien dossier `06_CHAPTERS/TOME_01` reste conserve comme draft source.
+
+## Ellipses
+Voir aussi: `02_STORY_BIBLE/DOSSIERS/ELLIPSES_TEMPORELLES.md`
+
+- Entre chapitre 1 et chapitre 2: 10 jours. Le club observe Dagger avant de l'associer a Marcus et Torch.
+- Apres chapitre 3: quelques jours pour laisser l'amitie Stephanie / Torch s'installer.
+- Entre chapitre 8 et chapitre 9: plusieurs jours de rumination apres le nom Velvet; Marcus sent que quelque chose bouge.
+- Entre chapitre 10 et chapitre 11: semaines de sabotage, routes fatiguees, allies silencieux.
+- Entre chapitre 13 et chapitre 14: temps de radicalisation de Marcus avant la capture de Stephanie.
+
 ## Resume
 Silas revient a Gasthaven avec une photo usee de Ryder et d'une femme rousse qu'il ne connait pas. Il n'a presque aucune information, aucun contact fiable, aucun plan clair. Il tombe d'abord sur le chien noir, puis sur Mira. Plus tard, dans un bar, il croise par hasard Iron, Ghost et Boomer sans savoir qu'ils sont les Cerberes. Pendant une bagarre, Silas sauve Ghost d'un coup de couteau. Ghost le surnomme alors Dagger. Ce geste lui ouvre une porte: il ne demande pas encore a entrer chez les Freres du Vent, il negocie d'abord une nuit dans leur garage.
 
 Le club ne ressemble pas a une famille. Il ressemble a un garage qui a appris a mentir.
 
-Dagger est place avec Marcus et Torch, les "Petits Cerberes". Marcus est charismatique, homme du terrain, capable de parler aux bikers comme aux rues. Il croit etre ne pour heriter du club. Torch, lui, a grandi autour du club avec Marcus, puis plus tard avec Ryder, mais reste prospect a vie: assez proche pour servir, jamais assez reconnu pour appartenir. Dagger arrive entre eux comme une anomalie. Stephanie, venue chercher Silas, developpe une amitie fragile avec Torch parce qu'ils se reconnaissent tous les deux comme des gens laisses dehors.
+Dix jours passent. Le club observe Dagger avant de lui donner autre chose qu'un coin ou dormir: petites taches, courses surveillees, silences, regards dans le dos. Le monde biker fonctionne a la paranoia utile. Dagger est ensuite place avec Marcus et Torch, les "Petits Cerberes". Marcus est charismatique, homme du terrain, capable de parler aux bikers comme aux rues. Il croit etre ne pour heriter du club. Torch, lui, a grandi autour du club avec Marcus, puis plus tard avec Ryder, mais reste prospect a vie: assez proche pour servir, jamais assez reconnu pour appartenir. Dagger arrive entre eux comme une anomalie. Stephanie, venue chercher Silas, developpe une amitie fragile avec Torch parce qu'ils se reconnaissent tous les deux comme des gens laisses dehors.
 
 Peu a peu, la photo de Ryder ouvre des failles. Boomer laisse echapper le nom de La Lame. Queenie confirme que Ryder n'etait pas seulement un frere mort: il avait tente quelque chose. Velvet apparait d'abord comme un piege, puis comme une mission dont tout le monde garde une version incomplete.
 
@@ -75,7 +92,7 @@ Image finale: Dagger sous la pluie, couvert d'huile et de sang, vivant dans les 
 | Episode | Titre | Acte | Hook | Tension | Rupture / Cliffhanger |
 | --- | --- | --- | --- | --- | --- |
 | 01 | Le vent ne parle pas | I | Silas arrive avec la photo et zero piste claire. | Il aide les Cerberes par hasard dans un bar sans savoir qui ils sont. | Ghost le surnomme Dagger apres qu'il l'a sauve d'un coup de couteau; Silas negocie une nuit au garage. |
-| 02 | Les Petits Cerberes | I | Dagger est associe a Marcus et Torch. | Marcus occupe le terrain; Torch reste prospect a vie. | Le trio nait deja fissure. |
+| 02 | Les Petits Cerberes | I | Dix jours apres son arrivee, Dagger est enfin associe a Marcus et Torch. | Le club l'a observe sans jamais lui dire s'il etait accepte; Marcus occupe le terrain; Torch reste prospect a vie. | Le trio nait deja fissure. |
 | 03 | Silas, pas Dagger | I | Stephanie revient chercher Silas. | Dagger refuse son ancienne vie; Torch reconnait une autre personne laissee dehors. | Dagger choisit le masque Dagger, tandis qu'une amitie Stephanie/Torch commence. |
 | 04 | L'autre Lame | I | Marcus parle de La Lame. | Sa version est brillante mais incomplete. | Dagger comprend que l'histoire de Ryder a ete retouchee. |
 | 05 | Le pacte | I | Copper menace Iron. | Dette invisible, police trop informee. | Dagger comprend que la police n'est pas dehors: elle est dedans. |

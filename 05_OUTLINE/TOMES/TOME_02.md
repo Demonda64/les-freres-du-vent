@@ -24,6 +24,15 @@ Qui a vraiment orchestre Velvet, et pourquoi maintenant ?
 - Acte II: Ceux Qui Savent
 - Acte III: Ceux Qui Brulent
 
+## Ellipses
+Voir aussi: `02_STORY_BIBLE/DOSSIERS/ELLIPSES_TEMPORELLES.md`
+
+- Ouverture: plusieurs mois apres la guerre du Tome I. La paix est une fatigue, pas une guerison.
+- Apres l'arrivee de Scarlett: ellipse courte pour que sa manipulation de Dagger passe par indices, absences et demi-verites.
+- Entre la piste Brick / Black Thorne et la verite Velvet: plusieurs jours d'enquete, filatures, refus de parler et archives sales.
+- Apres Iron / Copper / Kellen: ellipse brutale vers les consequences. Iron n'a jamais de corps entier; seuls des fragments sont retrouves, dont la tete.
+- Avant la mort de Boomer: ellipse emotionnelle. Boomer disparait assez longtemps pour que son retour soit un choix, pas un hasard.
+
 ## Resume
 Le club a survecu, mais il est detruit de l'interieur. Scarlett revient incognito et approche Dagger avec une protection trouble: elle voit Ryder perdu, Zeke disparu et Dagger vivant. La dette envers Crimson refait surface quand Cain exige Dagger: pour Red Mox, Silas Merel est le plan B apres la mort de Ryder, un reste de Zeke a recuperer. L'enquete revele que Velvet n'etait pas une mission standard, mais un systeme sacrificiel: les Freres livrent des hommes, la police ferme les yeux, Crimson prospere. Ryder a tente d'infiltrer ce mecanisme pour l'exposer. Cain a decouvert les preuves et fait tuer Ryder avant qu'il parle. Torch reste prospect a vie: jaloux, instable, facile a utiliser, mais pas cerveau de la chute. Kellen decouvre que la police a verrouille le recit et meurt. Le vrai double jeu vient de Copper, qui trahit Iron et Ryder en jouant Cain contre Iron. Red reprend le controle de ce qu'il avait cree: Iron est capture puis torture; on ne retrouvera jamais son corps entier, seulement des morceaux eparpilles, dont la tete. Copper est elimine, Kellen execute. Boomer revient avec des fragments du passe, puis avoue avoir protege Marcus, son neveu, au prix de Ryder. Marcus ne supporte pas la verite et tue son oncle, figure paternelle autant que mensonge vivant. Le club eclate. Ghost est blesse. Dagger part. Scarlett revele le Convoi.
 

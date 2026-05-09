@@ -28,6 +28,7 @@
 | Les Nouvelles Lames | Dissidence creee par Marcus, puis antenne liee a Crimson. | Tome I-III | Devient l'ennemi interne. |
 | Le Convoi | Groupe mobile initie par Scarlett sur une idee de Ryder. | Tome II-III | Alternative au club fixe. |
 | Chien noir | Presage de mort, apparition mystique devant les Cerberes, toujours avant ou apres un drame. | Dossier Chien Noir | Le lecteur doit pouvoir douter de son existence. |
+| Ellipses temporelles | Les ellipses sont un outil canonique de rythme: elles servent la paranoia, la maturation des dettes et les consequences hors champ. | Dossier Ellipses | Elles ne doivent pas eviter les scenes de trahison, revelation ou humiliation; elles doivent montrer ce que le temps a abime. |
 | Copper / Trahison | Copper joue un double jeu entre Cain et Iron. | Trahisons / Tome II | Il trahit Iron et Ryder, verrouille la version policiere et permet la chute d'Iron. |
 | Torch | Torch est prospect a vie chez les Freres du Vent. | Casting / Tome II | Il ne portera jamais les couleurs du Vent, mais peut devenir president dans un autre club. |
 | Torch / Enfance | Torch grandit autour du club avec Marcus, puis plus tard avec Ryder. | Casting / Tome I | Sa blessure vient d'une appartenance vecue mais jamais officialisee. |
@@ -74,21 +75,37 @@
 | Avant / pendant Velvet | Iron connait le systeme Velvet, l'infiltration de Ryder et remplace Torch par Brick. | Dossier Velvet | Il achete ensuite le silence de Queenie. |
 | Apres Velvet | Ghost decouvre trop tard la vraie nature de Velvet; Iron, Boomer et Scarlett la lui avaient cachee parce qu'il aurait refuse. | Dossier Velvet | Son silence vient apres l'exclusion. |
 | Tome I | Silas revient a Gasthaven avec la photo de Ryder et presque aucune information. | T1 C1 | Il tombe par hasard sur les Cerberes dans un bar, sauve Ghost d'un coup de couteau, recoit le surnom Dagger, puis negocie une nuit au garage. |
+| Tome I | Dix jours passent apres la premiere nuit au garage. | T1 C1 -> T1 C2 | Les Freres observent Dagger, le testent par petites taches et le gardent dans l'incertitude avant de l'associer a Marcus et Torch. La paranoia biker justifie cette ellipse. |
 | Tome I | Marcus quitte le club et fonde les Nouvelles Lames. | T1 C10 | Guerre interne. |
 | Tome I | Marcus capture Stephanie; Dagger et Torch sont choques par la radicalite de Marcus. | T1 C14 | La guerre sort du politique et touche les civils. |
 | Tome I | Torch tente de sauver Stephanie avec l'autorisation de Ghost et Iron, mais sa mission tourne au fiasco et il est tabasse presque a mort par les hommes de Marcus. | T1 C15 | Son besoin d'etre reconnu devient une blessure physique. |
 | Tome I | Dagger sauve Stephanie seul, sans accord du club. | T1 C15 | Premiere victoire en solo et rupture avec l'autorite d'Iron. |
+| Tome I | Quelques jours passent apres le retour de Stephanie. | T1 C3 -> T1 C4 | Torch et Stephanie developpent une amitie fragile qui rendra sa capture plus violente pour lui. |
+| Tome I | Plusieurs jours passent apres Queenie et le nom Velvet. | T1 C8 -> T1 C9 | Dagger rumine, Boomer evite, Ghost surveille, Marcus sent que quelque chose bouge. |
+| Tome I | Des semaines de sabotage usent le club avant la revelation de Queenie. | T1 C10 -> T1 C11 | Routes bloquees, garages menaces, allies silencieux; la guerre fatigue Gasthaven avant d'exploser. |
+| Tome I | Un temps de radicalisation suit la reussite strategique de Dagger. | T1 C13 -> T1 C14 | Marcus transforme l'humiliation en decision politique, puis capture Stephanie. |
+| Tome II | Plusieurs mois passent apres la guerre du Tome I. | T2 ouverture | Le club a survecu, mais la paix est de la fatigue organisee. |
 | Tome II | Scarlett revient incognito. | T2 C3 | Manipulation et revelation progressive. |
+| Tome II | Une ellipse courte suit l'arrivee de Scarlett. | T2 C3 -> T2 C4 | Sa manipulation agit par indices, absences et demi-verites. |
+| Tome II | Plusieurs jours d'enquete separent la piste Brick / Black Thorne de la verite Velvet. | T2 C4 -> T2 C5 | Refus de parler, filatures et archives sales font passer Velvet de rumeur a systeme. |
 | Tome II | Copper trahit Iron et Ryder en jouant Cain contre Iron. | T2 C8 | Double jeu policier, point de non-retour. |
 | Tome II | Iron est capture, torture, puis retrouve seulement en fragments: jamais de corps entier, mais des membres eparpilles, dont la tete. | T2 C8 / T3 C1 | Fin de l'ancien monde. |
+| Tome II | Une ellipse brutale suit Iron / Copper / Kellen. | T2 C8 -> T2 C9 | Le recit saute vers les consequences: corps incomplet d'Iron, silence du clubhouse, ville traumatisee. |
+| Tome II | Boomer disparait avant de revenir avec la verite. | T2 C10 -> T2 C11 | Son retour est un choix de mort, pas un hasard. |
 | Tome II | Red reprend le controle via Cain, Copper et la dette. | Iron / Mox / Zeke | Le systeme recupere Iron; Torch reste une menace manipulable. |
 | Tome II | Marcus tue Boomer apres la verite sur Velvet. | T2 C13 | Rupture irreversible. |
 | Tome II | Dagger, Mira et Scarlett rejoignent le Convoi. | T2 C17 | Exil de feu. |
+| Entre T2 et T3 | Deux ans passent. | T2 -> T3 | Dagger et Mira vivent hors Gasthaven; Angel nait et revient avec eux, presque deux ans. |
 | Tome III | Dagger revient avec Mira et Angel, puis recoit le patch presidentiel. | T3 C1 | Reconstruction sous pression familiale. |
+| Tome III | Des semaines de reconstruction suivent le retour de Dagger. | T3 C1 -> T3 C2 | Le patch ne suffit pas; routes, comptes, allies et garages doivent etre reconquis. |
+| Tome III | Razor prend progressivement le controle avant d'humilier Marcus. | T3 C2 -> T3 C3 | Dettes rachetees, hommes places, jeunes Lames impressionnes; l'humiliation devient politique. |
 | Tome III | Razor prend les Nouvelles Lames de Marcus apres une bagarre brutale et place Torch au pouvoir hors des couleurs du Vent. | T3 C3 | Marcus est battu devant ses hommes et force de reconnaitre Torch comme president pour sauver un jeune des Lames. |
 | Tome III | Torch creve un oeil de Scarlett au couteau pendant qu'elle se bat contre Razor presque amicalement. | T3 C6 | Attaque en traitre; Razor est emu par Scarlett, assomme Torch, puis Torch fuit en declenchant un grand feu. |
+| Tome III | Scarlett traverse une convalescence apres la perte de son oeil. | T3 C6 -> T3 C7 | La blessure devient une trace permanente de Torch et un choc pour Razor. |
 | Tome III | Razor trahit Crimson et protege Ghost. | T3 C5 | Alliance inattendue. |
+| Tome III | Gasthaven subit une ellipse de siege avant l'affrontement final. | T3 C8 -> T3 C10 | Routes fermees, allies qui choisissent leur camp, ville videe. |
 | Tome III | Razor tue Red Mox. | T3 C8 | Chute du pere fondateur. |
+| Tome III | Une retombee suit la mort de Red. | T3 C10 -> T3 C12 | La victoire ressemble a une dette; Grimm epargne sous condition, Ghost disparait, Scarlett repart. |
 | Tome III | Dagger, Marcus et Razor deviennent les nouveaux Cerberes. | T3 C10 | Nouveau visage du club. |
 
 ## Symboles
@@ -112,6 +129,7 @@ Voir reseau des parrainages dans `02_STORY_BIBLE/DOSSIERS/PARRAINAGES_HERITAGES.
 Voir structure economique Crimson dans `02_STORY_BIBLE/DOSSIERS/CRIMSON_STRUCTURE_ECONOMIE.md`.
 Voir architecture Marcus / Razor dans `02_STORY_BIBLE/DOSSIERS/MARCUS_RAZOR_HERITIERS.md`.
 Voir symbole du chien noir dans `02_STORY_BIBLE/DOSSIERS/CHIEN_NOIR.md`.
+Voir ellipses temporelles dans `02_STORY_BIBLE/DOSSIERS/ELLIPSES_TEMPORELLES.md`.
 
 Regle canonique:
 - chaque personnage cache quelque chose
@@ -127,6 +145,7 @@ Regle canonique:
 - dans le triangle Dagger / Marcus / Razor: Dagger choisit, Marcus subit, Razor impose
 - Marcus connait le terrain: il peut parler aux bikers et aux gangs, donc creer un contre-reseau hors Crimson
 - Marcus pense que le monde se gagne sur le terrain; Razor pense que le monde se controle d'en haut
+- les ellipses doivent montrer ce que le temps a abime, jamais esquiver une decision morale majeure
 - Copper, pas Torch, est la trahison operationnelle qui fait tomber Iron
 - Torch est prospect a vie: sa violence vient d'un statut bloque, pas d'une maitrise du systeme
 - le chien noir annonce ou suit un drame; il apparait devant les Cerberes et ne doit jamais etre totalement explique
