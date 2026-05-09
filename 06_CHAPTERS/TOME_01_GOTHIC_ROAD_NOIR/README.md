@@ -18,7 +18,7 @@ References:
 | 01 | Le vent ne parle pas | Draft v1 Gothic Road Noir |
 | 02 | Les dix jours | Draft v1 Gothic Road Noir |
 | 03 | Les Petits Cerberes | Draft v1 Gothic Road Noir |
-| 04 | Ceux qu'on laisse dehors | A ecrire / developper |
+| 04 | Ceux qu'on laisse dehors | Draft v1 Gothic Road Noir |
 | 05 | Silas, pas Dagger | A redistribuer depuis ancien C3 |
 | 06 | L'autre Lame | A redistribuer depuis ancien C4 |
 | 07 | Le pacte | A redistribuer depuis ancien C5 |
