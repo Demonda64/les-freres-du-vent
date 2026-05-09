@@ -16,7 +16,7 @@ References:
 | Chapitre | Titre | Statut |
 | --- | --- | --- |
 | 01 | Le vent ne parle pas | Draft v1 Gothic Road Noir |
-| 02 | Les dix jours | A ecrire |
+| 02 | Les dix jours | Draft v1 Gothic Road Noir |
 | 03 | Les Petits Cerberes | A redistribuer depuis ancien C2 |
 | 04 | Ceux qu'on laisse dehors | A ecrire / developper |
 | 05 | Silas, pas Dagger | A redistribuer depuis ancien C3 |
